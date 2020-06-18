@@ -2,8 +2,7 @@
 title: Project Overview
 ---
 
-# 2020 focus
-Finalize a working vision
+# 2020 Focus: Finalize a working vision
 - Decide stance on pursuit of varsity
 - Prioritize field/fieldhouse
 - Estimate total campaign fundraising goal
