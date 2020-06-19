@@ -29,3 +29,4 @@ title: Working Groups
 
 ## Bench
 - Wes Farrow
+- Ben Shapiro
