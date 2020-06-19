@@ -15,6 +15,7 @@ title: Project Overview
 - Share working vision with Club Sports
 - Share working vision with Spectators
 - Consider when to connect with Spencer, Martin, John Paul, Athletics
+- Address outstanding Elbel questions and feasibility study
 - Gather additional input or solicit additional working group help
 - Decide upon donation mechanics (gift account, endowment, MRF, new account?)
 - Map out our working group connections to potential donors
