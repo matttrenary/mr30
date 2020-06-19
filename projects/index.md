@@ -7,7 +7,7 @@ title: Project Overview
 - Establish initial project chronology
 - Prioritize field/fieldhouse
 - Estimate total campaign fundraising goal
-- Create workign vision presentation to share with potential supporters and donors
+- Create working vision presentation to share with potential supporters and donors
     - Identify initial supporters and donors to contact
 
 # Unprioritized milestones
