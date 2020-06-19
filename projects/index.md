@@ -3,7 +3,7 @@ title: Project Overview
 ---
 
 # 2020 Focus: Finalize a working vision
-- Decide stance on pursuit of varsity
+- Confirm stance on pursuit of varsity
 - Establish initial project chronology
 - Prioritize field/fieldhouse
 - Estimate total campaign fundraising goal
