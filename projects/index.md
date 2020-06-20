@@ -25,14 +25,15 @@ title: Project Overview
         - Waiting on: Guidance from Club Sports / OUD after introductions
         - *Can still research and discuss prior to Club Sports / OUD guidance*
 1. Estimate total campaign fundraising goal
-    - Waiting on: Field prioritization
+    - Waiting on: Confirmation of stance on pursuit of varsity
+    - Waiting on: Field/fieldhouse prioritization
 1. ***Milestone:*** **Finalize working vision**
 ## Beyond
 1. Identify initial supporters and donors to contact
+    - Map out our working group connections to potential donors
 1. Share working vision with Club Sports and Development
 1. Share working vision with Spectators
 1. Consider when to connect with Spencer, Martin, John Paul, Athletics
     1. Establish order of admissions pursuits
 1. Decide upon donation mechanics (gift account, endowment, MRF, new account?)
-1. Map out our working group connections to potential donors
 1. Further breakdown fundraising goal into milestones
