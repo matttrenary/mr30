@@ -10,6 +10,7 @@ title: Working Groups
 
 ## Forwards
 - Kevin Cunningham
+- Jamie Frech
 - Bill Haldane
 - John Palladino
 - Greg Rose
@@ -24,6 +25,7 @@ title: Working Groups
 - Jeff Hagan
 - Mike Lisi
 - John Moore
+- Vanessa Rojano
 - Aaron Turk
 - Tom Warburton
 
