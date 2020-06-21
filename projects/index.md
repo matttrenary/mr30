@@ -11,7 +11,7 @@ title: Project Overview
     - Identify initial supporters and donors to contact
 
 # Unspecified timeline
-## Current projects
+## Current projects  
 - Organize working group cadence
 - Gather additional input or solicit additional working group help
 - Confirm stance on pursuit of varsity
@@ -19,16 +19,17 @@ title: Project Overview
 - Share initial vision thoughts with Club Sports and Development (OUD)
 
 ## Upcoming
-- Introduce Forwards to Development representative
-    - Waiting on: Completion of summer update email and initial vision thought share
-- Prioritize field/fieldhouse
-    - Address outstanding Elbel questions and feasibility study
-        - Waiting on: Guidance from Club Sports / OUD after introductions
-        - *Can still research and discuss prior to Club Sports / OUD guidance*
-- Estimate total campaign fundraising goal
-    - Waiting on: Confirmation of stance on pursuit of varsity
-    - Waiting on: Field/fieldhouse prioritization
-- ***Milestone:*** **Finalize working vision**
+#### Introduce Forwards to Development representative
+- Waiting on: Completion of summer update email and initial vision thought share
+
+#### Prioritize field/fieldhouse
+- Address outstanding Elbel questions and feasibility study
+    - Waiting on: Guidance from Club Sports / OUD after introductions
+    - *Can still research and discuss prior to Club Sports / OUD guidance*
+#### Estimate total campaign fundraising goal
+- Waiting on: Confirmation of stance on pursuit of varsity
+- Waiting on: Field/fieldhouse prioritization
+#### ***Milestone:*** **Finalize working vision**
 
 ## Beyond
 - Identify initial supporters and donors to contact
