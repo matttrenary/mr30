@@ -43,7 +43,7 @@ title: Project Overview
 - Waiting on: Confirmation of stance on pursuit of varsity
 - Waiting on: Field/fieldhouse prioritization
 
-### <span style='color:#ffcc00'>Milestone:</span> **Finalize working vision**
+### <span style='color:#cc0000'>Milestone:</span> **Finalize working vision**
 
 ## Beyond Milestone Projects
 - Identify initial supporters and donors to contact, and map out work group's connections
