@@ -46,11 +46,9 @@ title: Project Overview
 ### <span style='color:#ffcc00'>Milestone:</span> **Finalize working vision**
 
 ## Beyond Milestone Projects
-- Identify initial supporters and donors to contact
-    - Map out our working group connections to potential donors
+- Identify initial supporters and donors to contact, and map out work group's connections
 - Share working vision with Club Sports and Development
 - Share working vision with Spectators
-- Consider when to connect with Spencer, Martin, John Paul, Athletics
-    - Establish order of admissions pursuits
+- Establish order of admissions assistance pursuit, and consider when to connect with Spencer, Martin, John Paul, Athletics
 - Decide upon donation mechanics (gift account, endowment, MRF, new account?)
 - Further breakdown fundraising goal into milestones
