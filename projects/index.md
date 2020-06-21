@@ -2,7 +2,7 @@
 title: Project Overview
 ---
 
-# 2020 Focus: Finalize a working vision
+# 2020 Focus: <span style='color:#cc0000'>Finalize a working vision</span>
 - Confirm stance on pursuit of varsity
 - Establish initial project timeline
 - Prioritize field/fieldhouse
