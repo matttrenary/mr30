@@ -38,15 +38,13 @@ title: Project Overview
 ### Prioritize field/fieldhouse
 - Address outstanding Elbel questions and feasibility study
     - Waiting on: Guidance from Club Sports / OUD after introductions
-    - *Can still research and discuss prior to Club Sports / OUD guidance*
+    - Can still research and discuss prior to Club Sports / OUD guidance
     
 ### Estimate total campaign fundraising goal
 - Waiting on: Confirmation of stance on pursuit of varsity
 - Waiting on: Field/fieldhouse prioritization
 
 ### ***Milestone:*** **Finalize working vision**
-
-##### H5 test
 
 ## Beyond
 - Identify initial supporters and donors to contact
