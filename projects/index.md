@@ -8,7 +8,6 @@ title: Project Overview
 - Prioritize field/fieldhouse
 - Estimate total campaign fundraising goal
 - Create working vision presentation to share with potential supporters and donors
-    - Identify initial supporters and donors to contact
 
 # Unspecified timeline
 ## Current projects  
@@ -31,7 +30,7 @@ title: Project Overview
 - **Seibert** leading creation of short presentation
 - **Trenary** and **Bodner** will eventually relay
 
-## Upcoming
+## Upcoming Projects
 ### Introduce Forwards to Development representative
 - Waiting on: Completion of summer update email and initial vision thought share
 
@@ -44,9 +43,9 @@ title: Project Overview
 - Waiting on: Confirmation of stance on pursuit of varsity
 - Waiting on: Field/fieldhouse prioritization
 
-### ***Milestone:*** **Finalize working vision**
+### <span style='color:#ff3300'>Milestone:</span> **Finalize working vision**
 
-## Beyond
+## Beyond Milestone Projects
 - Identify initial supporters and donors to contact
     - Map out our working group connections to potential donors
 - Share working vision with Club Sports and Development
