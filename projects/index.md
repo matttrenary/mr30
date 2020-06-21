@@ -46,7 +46,7 @@ title: Project Overview
 ### <span style='color:#cc0000'>Milestone:</span> **Finalize working vision**
 
 ## Beyond Milestone Projects
-- Identify initial supporters and donors to contact, and map out work group's connections
+- Identify initial supporters and donors to contact, and map out working group's connections
 - Share working vision with Club Sports and Development
 - Share working vision with Spectators
 - Establish order of admissions assistance pursuit, and consider when to connect with Spencer, Martin, John Paul, Athletics
