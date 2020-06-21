@@ -12,11 +12,24 @@ title: Project Overview
 
 # Unspecified timeline
 ## Current projects  
-- Organize working group cadence
-- Gather additional input or solicit additional working group help
-- Confirm stance on pursuit of varsity
-- Establish initial project timeline
-- Share initial vision thoughts with Club Sports and Development (OUD)
+#### Organize working group cadence
+- Distributing call schedule survey
+
+#### Gather additional input or solicit additional working group help
+- **Trenary** and **Bodner** discussing with full team
+- **Palladino** contacting 2010s players
+- **Rose** and **Haldane** contacting Gress
+- Presentation available for other conversations
+
+#### Confirm stance on pursuit of varsity
+- No dissent on call but want to make sure all voices heard
+
+#### Establish initial project timeline
+- Please comment on this outline
+
+#### Share initial vision thoughts with Club Sports and Development (OUD)
+- **Seibert** leading creation of short presentation
+- **Trenary** and **Bodner** will eventually relay
 
 ## Upcoming
 #### Introduce Forwards to Development representative
@@ -26,9 +39,11 @@ title: Project Overview
 - Address outstanding Elbel questions and feasibility study
     - Waiting on: Guidance from Club Sports / OUD after introductions
     - *Can still research and discuss prior to Club Sports / OUD guidance*
+    
 #### Estimate total campaign fundraising goal
 - Waiting on: Confirmation of stance on pursuit of varsity
 - Waiting on: Field/fieldhouse prioritization
+
 #### ***Milestone:*** **Finalize working vision**
 
 ## Beyond
