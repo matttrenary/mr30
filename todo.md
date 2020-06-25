@@ -1,1 +1,2 @@
-2020-06-23 Add necessary decision: Does working vision hinge on non-varsity admissions assitance or incorporate it?
+- 2020-06-23 Add necessary decision: Does working vision hinge on non-varsity admissions assitance or incorporate it?
+- 2020-06-24 Lisi: Align more with women's team. Equal both ways.
