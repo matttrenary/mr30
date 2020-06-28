@@ -32,7 +32,7 @@ title: Project Overview
 - **Trenary** and **Bodner** will eventually relay
 
 ### <span style='color:green'>+ Clarify collaboration of men's and women's teams
-- Does alignment depend on men's varsity pursuit?
+- + Does alignment depend on men's varsity pursuit?
 </span>
 
 ## Upcoming Projects
