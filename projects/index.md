@@ -31,9 +31,8 @@ title: Project Overview
 - **Seibert** leading creation of short presentation
 - **Trenary** and **Bodner** will eventually relay
 
-### <span style='color:green'>+ Clarify collaboration of men's and women's teams
-- + Does alignment depend on men's varsity pursuit?
-</span>
+### <span style='color:green'>+ Clarify collaboration of men's and women's teams</span>
+- <span style='color:green'>+ Does alignment depend on men's varsity pursuit?</span>
 
 ## Upcoming Projects
 ### Introduce Forwards to Development representative
