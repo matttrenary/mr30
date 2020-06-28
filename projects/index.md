@@ -15,13 +15,14 @@ title: Project Overview
 - Distributing call schedule survey
 
 ### Gather additional input or solicit additional working group help
-- **Trenary** and **Bodner** discussing with full team
+- **Trenary** and **Bodner** discussing with full team <span style='color:green'>+ Wednesday</span>
 - **Palladino** contacting 2010s players
 - **Rose** and **Haldane** contacting Gress
 - Presentation available for other conversations
 
 ### Confirm stance on pursuit of varsity
 - No dissent on call but want to make sure all voices heard
+- <span style='color:green'>+ Clarify whether alternative admissions pursuit precedes this decision</span>
 
 ### Establish initial project timeline
 - Please comment on this outline
