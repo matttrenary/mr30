@@ -12,7 +12,8 @@ title: Project Overview
 # Unspecified timeline
 ## Current projects  
 ### Organize working group cadence
-- Distributing call schedule survey
+- ~~Distributing call schedule survey~~
+- **Trenary** following up with individuals and will decide upon time this week
 
 ### Gather additional input or solicit additional working group help
 - **Trenary** and **Bodner** discussing with full team <span style='color:green'>+ Wednesday</span>
