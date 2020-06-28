@@ -54,5 +54,6 @@ title: Project Overview
 - Share working vision with Club Sports and Development
 - Share working vision with Spectators
 - Establish order of admissions assistance pursuit, and consider when to connect with Spencer, Martin, John Paul, Athletics
+    - <span style='color:green'>+ May become priority item for confirming varsity pursuit</span>
 - Decide upon donation mechanics (gift account, endowment, MRF, new account?)
 - Further breakdown fundraising goal into milestones
