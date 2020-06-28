@@ -5,6 +5,7 @@ title: Project Overview
 # 2020 Focus: <span style='color:#cc0000'>Finalize a working vision</span>
 - Confirm stance on pursuit of varsity
 - Establish initial project timeline
+- <span style='color:green'>+ Clarify collaboration between men's and women's teams</span>
 - Prioritize field/fieldhouse
 - Estimate total campaign fundraising goal
 - Create working vision presentation to share with potential supporters and donors
@@ -32,7 +33,7 @@ title: Project Overview
 - **Seibert** leading creation of short presentation
 - **Trenary** and **Bodner** will eventually relay
 
-### <span style='color:green'>+ Clarify collaboration of men's and women's teams</span>
+### <span style='color:green'>+ Clarify collaboration between men's and women's teams</span>
 - <span style='color:green'>+ Does alignment depend on men's varsity pursuit?</span>
 
 ## Upcoming Projects
