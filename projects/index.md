@@ -25,7 +25,7 @@ title: Project Overview
 
 ### Confirm stance on pursuit of varsity
 - No dissent on call but want to make sure all voices heard
-- <span style='color:green'>+ Clarify whether alternative admissions pursuit precedes this decision</span>
+- <span style='color:green'>+ Clarify whether alternative admissions investigation precedes this decision</span>
 
 ### Establish initial project timeline
 - Please comment on this outline
