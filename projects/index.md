@@ -1,6 +1,7 @@
 ---
 title: Project Overview
 ---
+***As of June 28, 2020***
 
 # 2020 Focus: <span style='color:#cc0000'>Finalize a working vision</span>
 - Confirm stance on pursuit of varsity
