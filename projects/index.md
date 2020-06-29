@@ -49,6 +49,7 @@ title: Project Overview
 ### Estimate total campaign fundraising goal
 - Waiting on: Confirmation of stance on pursuit of varsity
 - Waiting on: Field/fieldhouse prioritization
+- <span style='color:green'>+ Waiting on: Clarity of collaboration between men's and women's teams</span>
 
 ### <span style='color:#cc0000'>Milestone:</span> **Finalize working vision**
 
