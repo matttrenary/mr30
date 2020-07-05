@@ -11,7 +11,6 @@ title: Working Groups
 ## Forwards
 - Kevin Cunningham
 - Jamie Frech
-- Bill Haldane
 - John Palladino
 - Greg Rose
 - Karl Seibert
@@ -31,4 +30,5 @@ title: Working Groups
 
 ## Bench
 - Wes Farrow
+- Bill Haldane
 - Ben Shapiro
