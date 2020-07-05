@@ -22,7 +22,7 @@ title: Project Overview
 ### Gather additional input or solicit additional working group help
 - **Trenary** and **Bodner** ~~discussing~~ <span style='color:green'>+ discussed<span> with full team Wednesday
 - **Palladino** contacting 2010s players
-- **Rose** and **Haldane** contacting Gress <span style='color:red'>(need update)</span>
+- **Rose** and **Haldane** contacting Gress
 - <span style='color:green'>+ **Trenary** reached out to Steve Cohen and other alumni</span>
 - Presentation available for other conversations
 
@@ -60,7 +60,7 @@ title: Project Overview
 
 ## Beyond Milestone Projects
 - Identify initial supporters and donors to contact, and map out working group's connections
-- Share working vision with Club Sports and Development
+- Share working vision with ~~Club Sports and Development~~ <span style='color:green'>+ Rec Sports development team</span> 
 - Share working vision with Spectators
 - Establish order of admissions assistance pursuit, and consider when to connect with Spencer, Martin, John Paul, Athletics
     - May become priority item for confirming varsity pursuit
