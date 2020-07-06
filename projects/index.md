@@ -20,7 +20,7 @@ title: Project Overview
 - <span style='color:green'>+ Weekly email questions to continue</span>
 
 ### Gather additional input or solicit additional working group help
-- **Trenary** and **Bodner** ~~discussing~~ <span style='color:green'>+ discussed<span> with full team Wednesday
+- **Trenary** and **Bodner** ~~discussing~~ <span style='color:green'>+ discussed</span> with full team Wednesday
 - **Palladino** contacting 2010s players
 - **Rose** and **Haldane** contacting Gress
 - <span style='color:green'>+ **Trenary** reached out to Steve Cohen and other alumni</span>
