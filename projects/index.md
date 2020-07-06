@@ -34,7 +34,7 @@ title: Project Overview
 ### Establish initial project timeline
 - Please comment on this outline
 
-### Share initial vision thoughts with Club Sports and Development (OUD)
+### Share initial vision thoughts with ~~Club Sports and Development (OUD)~~ <span style='color:green'>+ Rec Sports development team</span>
 - **Seibert** leading creation of short presentation
 - **Trenary** and **Bodner** will eventually relay
 
