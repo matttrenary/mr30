@@ -31,4 +31,5 @@ title: Working Groups
 ## Bench
 - Wes Farrow
 - Bill Haldane
+- Matt Kasten
 - Ben Shapiro
