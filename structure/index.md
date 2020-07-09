@@ -29,6 +29,7 @@ title: Working Groups
 - Tom Warburton
 
 ## Bench
+- Joel Conzelmann
 - Wes Farrow
 - Bill Haldane
 - Matt Kasten
