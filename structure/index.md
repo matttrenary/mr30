@@ -32,6 +32,7 @@ title: Working Groups
 - Jared Bosma
 - Joel Conzelmann
 - Wes Farrow
+- Nate Fisher
 - Bill Haldane
 - Matt Kasten
 - Ben Shapiro
