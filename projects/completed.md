@@ -10,3 +10,8 @@ title: Completed Projects
 ### Establish initial project timeline
 - No specific feedback on drafted timeline
 - Will keep and address on ad-hoc basis
+
+### Confirm stance on varsity pursuit
+- Long-term vision includes separate varsity and club teams, all under the Michigan Rugby umbrella
+- Main focus, especially in the short-term, is on the individual elements of a successful program (e.g., admissions, facility, coaching, etc.)
+- Can reassess years into vision
