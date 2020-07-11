@@ -12,3 +12,4 @@ title: MR30
 ## Projects
 - [Project Overview](/projects/index.md)
 - [Weekly Updates](/projects/updates/index.md)
+- [Completed Projects](/projects/completed.md)
