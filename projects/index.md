@@ -1,7 +1,7 @@
 ---
 title: Project Overview
 ---
-***As of July 5, 2020***
+***As of July 12, 2020***
 
 # 2020 Focus: <span style='color:#cc0000'>Finalize a working vision</span>
 - Confirm stance on pursuit of varsity
@@ -14,7 +14,7 @@ title: Project Overview
 # Unspecified timeline
 ## Current projects  
 ### Organize working group cadence
-- ~~**Trenary** following up with individuals and will decide upon time this week~~
+- [x] Completed and [archived here](completed.md)
 - <span style='color:green'>+ July call on July 9, 8p</span>
 - <span style='color:green'>+ Targeting roughly second Thursdays for calls and will likely shuffle time</span>
 - <span style='color:green'>+ Weekly email questions to continue</span>
