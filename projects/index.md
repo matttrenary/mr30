@@ -67,9 +67,9 @@ title: Project Overview
 
 ## Beyond Milestone Projects
 - Identify initial supporters and donors to contact, and map out working group's connections
-- Share working vision with ~~Club Sports and Development~~ <span style='color:green'>+ Rec Sports development team</span> 
+- Share working vision with Rec Sports development team
 - Share working vision with Spectators
 - Establish order of admissions assistance pursuit, and consider when to connect with Spencer, Martin, John Paul, Athletics
-    - May become priority item for confirming varsity pursuit
+    - ~~May become priority item for confirming varsity pursuit~~
 - Decide upon donation mechanics (gift account, endowment, MRF, new account?)
 - Further breakdown fundraising goal into milestones
