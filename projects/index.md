@@ -29,7 +29,7 @@ title: Project Overview
 
 ### Confirm stance on pursuit of varsity
 - No dissent on ~~call~~ <span style='color:green'>+ calls</span> but want to make sure all voices heard
-- ~~Clarify whether alternative admissions investigation precedes this decision~~ See update below
+- ~~Clarify whether alternative admissions investigation precedes this decision~~ <span style='color:green'>+ See update below</span>
     - ~~Current support of pursuing necessary elements in parallel with varsity~~ 
 - <span style='color:green'>+ Long-term vision includes separate varsity and club teams, all under the Michigan Rugby umbrella</span>
 - <span style='color:green'>+ Main focus, especially in the short-term, is on the individual elements of a successful program (e.g., admissions, facility, coaching, etc.)</span>
