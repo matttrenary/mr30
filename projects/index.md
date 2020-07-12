@@ -29,7 +29,7 @@ title: Project Overview
 
 ### Confirm stance on pursuit of varsity
 - No dissent on ~~call~~ <span style='color:green'>+ calls</span> but want to make sure all voices heard
-- ~~Clarify whether alternative admissions investigation precedes this decision~~ <span style='color:green'>+ See update below</span>
+- ~~Clarify whether alternative admissions investigation precedes this decision~~
     - ~~Current support of pursuing necessary elements in parallel with varsity~~ 
 - <span style='color:green'>+ Long-term vision includes separate varsity and club teams, all under the Michigan Rugby umbrella</span>
 - <span style='color:green'>+ Main focus, especially in the short-term, is on the individual elements of a successful program (e.g., admissions, facility, coaching, etc.)</span>
@@ -43,7 +43,7 @@ title: Project Overview
 
 ### Clarify collaboration between men's and women's teams
 - ~~Does alignment depend on men's varsity pursuit?~~
-    - ~~Current support of collaboration regardless of men's path~~ <span style='color:green'>+ See update below</span>
+    - ~~Current support of collaboration regardless of men's path~~
 - Unanimous support for collaboration
 - No issues with soliciting for joint projects
 - Clarity of vision and mechanics of fundraising will determine exact collaboration
