@@ -5,7 +5,7 @@ title: Project Overview
 
 # 2020 Focus: <span style='color:#cc0000'>Finalize a working vision</span>
 - Confirm stance on pursuit of varsity
-- Establish initial project timeline
+- [x] Establish initial project timeline
 - Clarify collaboration between men's and women's teams
 - Prioritize field/fieldhouse
 - Estimate total campaign fundraising goal
@@ -15,9 +15,9 @@ title: Project Overview
 ## Current projects  
 ### Organize working group cadence
 - [x] Completed and [archived here](completed.md)
-- <span style='color:green'>+ July call on July 9, 8p</span>
-- <span style='color:green'>+ Targeting roughly second Thursdays for calls and will likely shuffle time</span>
-- <span style='color:green'>+ Weekly email questions to continue</span>
+
+### Establish initial project timeline
+- [x] Completed and [archived here](completed.md)
 
 ### Gather additional input or solicit additional working group help
 - **Trenary** and **Bodner** ~~discussing~~ <span style='color:green'>+ discussed</span> with full team Wednesday
@@ -30,9 +30,6 @@ title: Project Overview
 - No dissent on call but want to make sure all voices heard
 - Clarify whether alternative admissions investigation precedes this decision
     - <span style='color:green'>+ Current support of pursuing necessary elements in parallel with varsity</span>
-
-### Establish initial project timeline
-- Please comment on this outline
 
 ### Share initial vision thoughts with ~~Club Sports and Development (OUD)~~ <span style='color:green'>+ Rec Sports development team</span>
 - **Seibert** leading creation of short presentation
