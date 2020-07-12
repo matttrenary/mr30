@@ -42,16 +42,16 @@ title: Project Overview
 
 ### Clarify collaboration between men's and women's teams
 - Does alignment depend on men's varsity pursuit?
-    - <span style='color:green'>+ Current support of collaboration regardless of men's path</span>
+    - ~~Current~~ <span style='color:green'>+ Full</span> support of collaboration regardless of men's path
 
 ## Upcoming Projects
-### Introduce Forwards to ~~Development representative~~ <span style='color:green'>+ Rec Sports development team</span>
+### Introduce Forwards to Rec Sports development team
 - Waiting on: Completion of summer update email and initial vision thought share
 
 ### Prioritize field/fieldhouse
 - Address outstanding Elbel questions and feasibility study
-    - Waiting on: Guidance from ~~Club Sports / OUD~~ <span style='color:green'>+ Rec Sports development team</span> after introductions
-    - Can still research and discuss prior to ~~Club Sports / OUD~~ <span style='color:green'>+ Rec Sports development team</span> guidance
+    - Waiting on: Guidance from Rec Sports development team after introductions
+    - Can still research and discuss prior to Rec Sports development team guidance
     
 ### Estimate total campaign fundraising goal
 - Waiting on: Confirmation of stance on pursuit of varsity
