@@ -37,7 +37,8 @@ title: Project Overview
 - <span style='color:green'>+ </span><span style='color:red'>Will keep open for a week in case additional feedback comes in</span>
 
 ### Share initial vision thoughts with Rec Sports development team
-- **Seibert** ~~leading creation of~~ created short presentation
+- **Seibert** ~~leading creation of~~ <span style='color:green'>+ created</span> short presentation
+    - <span style='color:green'>+ Reviewed and deemed ready to share</span>
 - **Trenary** and **Bodner** will ~~eventually relay~~ share with Rec Sports development team and arrange a meeting
 
 ### Clarify collaboration between men's and women's teams
@@ -46,7 +47,7 @@ title: Project Overview
 
 ## Upcoming Projects
 ### Introduce Forwards to Rec Sports development team
-- Waiting on: Completion of summer update email and initial vision thought share
+- Waiting on: ~~Completion of summer update email and~~ Initial vision ~~thought~~ <span style='color:green'>+ presentation</span> share
 
 ### Prioritize field/fieldhouse
 - Address outstanding Elbel questions and feasibility study
