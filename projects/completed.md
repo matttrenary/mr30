@@ -9,4 +9,4 @@ title: Completed Projects
 
 ### Establish initial project timeline
 - No specific feedback on drafted timeline
-- Will keep and address on ad-hoc basis
+- Will use Project Overview and address updates on ad-hoc basis
