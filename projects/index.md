@@ -1,7 +1,7 @@
 ---
 title: Project Overview
 ---
-***As of July 12, 2020***
+***<span style='color:red'>In progress</span>As of July 12, 2020***
 
 # 2020 Focus: <span style='color:#cc0000'>Finalize a working vision</span>
 - Confirm stance on pursuit of varsity
@@ -20,20 +20,25 @@ title: Project Overview
 - [x] Completed and [archived here](completed.md)
 
 ### Gather additional input or solicit additional working group help
-- **Trenary** and **Bodner** ~~discussing~~ <span style='color:green'>+ discussed</span> with full team Wednesday
+- **Trenary** and **Bodner** discussed with full team
 - **Palladino** contacting 2010s players
 - **Rose** and **Haldane** contacting Gress
-- <span style='color:green'>+ **Trenary** reached out to Steve Cohen and other alumni</span>
+- **Trenary** reached out to Steve Cohen and other alumni
+- <span style='color:green'>+ All members are encouraged to continue reaching out to their network</span>
 - Presentation available for other conversations
 
 ### Confirm stance on pursuit of varsity
-- No dissent on call but want to make sure all voices heard
-- Clarify whether alternative admissions investigation precedes this decision
-    - <span style='color:green'>+ Current support of pursuing necessary elements in parallel with varsity</span>
+- No dissent on ~~call~~ <span style='color:green'>+ calls</span> but want to make sure all voices heard
+- ~~Clarify whether alternative admissions investigation precedes this decision~~ See update below
+    - ~~Current support of pursuing necessary elements in parallel with varsity~~ 
+- <span style='color:green'>+ Long-term vision includes separate varsity and club teams, all under the Michigan Rugby umbrella</span>
+- <span style='color:green'>+ Main focus, especially in the short-term, is on the individual elements of a successful program (e.g., admissions, facility, coaching, etc.)</span>
+- <span style='color:green'>+ Can reassess years into vision<span>
+- <span style='color:green'>+ </span><span style='color:red'>Will keep open for a week in case additional feedback comes in</span>
 
-### Share initial vision thoughts with ~~Club Sports and Development (OUD)~~ <span style='color:green'>+ Rec Sports development team</span>
-- **Seibert** leading creation of short presentation
-- **Trenary** and **Bodner** will eventually relay
+### Share initial vision thoughts with Rec Sports development team
+- **Seibert** ~~leading creation of~~ created short presentation
+- **Trenary** and **Bodner** will ~~eventually relay~~ share with Rec Sports development team and arrange a meeting
 
 ### Clarify collaboration between men's and women's teams
 - Does alignment depend on men's varsity pursuit?
