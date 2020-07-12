@@ -44,10 +44,10 @@ title: Project Overview
 ### Clarify collaboration between men's and women's teams
 - ~~Does alignment depend on men's varsity pursuit?~~
     - ~~Current support of collaboration regardless of men's path~~
-- Unanimous support for collaboration
-- No issues with soliciting for joint projects
-- Clarity of vision and mechanics of fundraising will determine exact collaboration
-- Will continue gathering input (Cohen, Rec Sports development, women’s alumni, other projects, etc.) to inform collaboration
+- <span style='color:green'>+ Unanimous support for collaboration</span>
+- <span style='color:green'>+ No issues with soliciting for joint projects</span>
+- <span style='color:green'>+ Clarity of vision and mechanics of fundraising will determine exact collaboration</span>
+- <span style='color:green'>+ Will continue gathering input (Cohen, Rec Sports development, women’s alumni, other projects, etc.) to inform collaboration</span>
 
 ## Upcoming Projects
 ### Introduce Forwards to Rec Sports development team
