@@ -39,11 +39,15 @@ title: Project Overview
 ### Share initial vision thoughts with Rec Sports development team
 - **Seibert** ~~leading creation of~~ <span style='color:green'>+ created</span> short presentation
     - <span style='color:green'>+ Reviewed and deemed ready to share</span>
-- **Trenary** and **Bodner** will ~~eventually relay~~ share with Rec Sports development team and arrange a meeting
+- **Trenary** and **Bodner** will ~~eventually relay~~ <span style='color:green'>+ share with Rec Sports development team and arrange a meeting</span>
 
 ### Clarify collaboration between men's and women's teams
-- Does alignment depend on men's varsity pursuit?
-    - ~~Current~~ <span style='color:green'>+ Full</span> support of collaboration regardless of men's path
+- ~~Does alignment depend on men's varsity pursuit?~~
+    - ~~Current support of collaboration regardless of men's path~~ <span style='color:green'>+ See update below</span>
+- Unanimous support for collaboration
+- No issues with soliciting for joint projects
+- Clarity of vision and mechanics of fundraising will determine exact collaboration
+- Will continue gathering input (Cohen, Rec Sports development, women’s alumni, other projects, etc.) to inform collaboration
 
 ## Upcoming Projects
 ### Introduce Forwards to Rec Sports development team
