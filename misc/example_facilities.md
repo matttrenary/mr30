@@ -26,7 +26,7 @@ title: Example Facilities
 - [Additional Info](https://gostanford.com/facilities/steuber-rugby-stadium-doyle-family-clubhouse/17)
 
 ### Dartmouth
-<img src="https://recreation.dartmouth.edu/sites/recreation.prod/files/styles/slide/public/recreation_dartmouth/images/corey_ford_clubhouse.png?itok=GvgttbVy" alt="Corey Ford Rugby Clubhouse" width="500"/>
+- <img src="https://recreation.dartmouth.edu/sites/recreation.prod/files/styles/slide/public/recreation_dartmouth/images/corey_ford_clubhouse.png?itok=GvgttbVy" alt="Corey Ford Rugby Clubhouse" width="500"/>
 - Corey Ford Rugby Clubhouse
     - Three grass fields
     - 6,000 sq ft clubhouse
