@@ -1,5 +1,5 @@
 ---
-title:Example Facilities
+title: Example Facilities
 ---
 ## Rugby
 ### Army
@@ -38,7 +38,7 @@ title:Example Facilities
 - [Additional Info](https://dartmouthsports.com/sports/2015/7/22/210229604.aspx)
 
 ### Notre Dame
-![Stinson Rugby Field](https://ssl.c.photoshelter.com/img-get/I0000kjjYI_QGgDE/s/650/9-20-13-Stinson-Rugby-Field.jpg)
+![Stinson Rugby Field](https://ssl.c.photoshelter.com/img-get/I0000kjjYI_QGgDE/s/650/9-20-13-Stinson-Rugby-Field.jpg =280x)
 - Stinson Rugby Field
     - Turf field
     - Fieldhouse and seating TBD
@@ -47,7 +47,7 @@ title:Example Facilities
     - Primarily from a single donor
     
 ### Chicago Lions
-![Lions for Hope Sports Complex](https://www.lionsforhopesc.org/wp-content/uploads/2020/03/field2-1000.jpg)
+![Lions for Hope Sports Complex](https://www.lionsforhopesc.org/wp-content/uploads/2020/03/field2-1000.jpg =280x)
 - Lions for Hope Sports Complex
     - Turf field constructed with a second planned
     - Fieldhouse planned
@@ -57,7 +57,7 @@ title:Example Facilities
 
 ## Non-rugby at Michigan
 ### Michigan Soccer
-![U-M Soccer Stadium](https://assets.simpleviewinc.com/simpleview/image/fetch/c_limit,q_75,w_1200/https://assets.simpleviewinc.com/simpleview/image/upload/crm/annarbor/U-M-Soccer-Stadium_Aerial0-3612e2a05056a36_3612e3ee-5056-a36a-06963b6319c39be0.jpg)
+![U-M Soccer Stadium](https://assets.simpleviewinc.com/simpleview/image/fetch/c_limit,q_75,w_1200/https://assets.simpleviewinc.com/simpleview/image/upload/crm/annarbor/U-M-Soccer-Stadium_Aerial0-3612e2a05056a36_3612e3ee-5056-a36a-06963b6319c39be0.jpg =280x)
 - U-M Soccer Stadium
     - Three grass fields
     - Fieldhouse
@@ -68,7 +68,7 @@ title:Example Facilities
 - [Additional Info 2](https://umaec.umich.edu/projects/completed-projects/intercollegiate-soccer-stadium/)
 
 ### Michigan Field Hockey
-![Ocker Field](https://camps.mgoblue.com/images/fieldhockey/Phyllis__Ocker__Field__Hockey__Field.jpg)
+![Ocker Field](https://camps.mgoblue.com/images/fieldhockey/Phyllis__Ocker__Field__Hockey__Field.jpg =280x)
 - Ocker Field
     - Turf field
     - 13,000 sq ft fieldhouse
@@ -81,7 +81,7 @@ title:Example Facilities
 - [Additional Info 2](https://umaec.umich.edu/projects/completed-projects/new-field-hockey-team-center-new-field-hockey-stadium-and-ocker-field-improvements/)
 
 ### Michigan Wrestling
-![Bahna Wrestling Center](https://pbs.twimg.com/media/DNFXYjSXUAQJ0Bj.jpg:large)
+![Bahna Wrestling Center](https://pbs.twimg.com/media/DNFXYjSXUAQJ0Bj.jpg:large =280x)
 - Bahna Wrestling Center
     - 18,000 sq ft
 - Built in 2009
