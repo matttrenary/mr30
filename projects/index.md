@@ -1,7 +1,7 @@
 ---
 title: Project Overview
 ---
-***As of July 19, 2020***
+***As of July 26, 2020***
 
 # 2020 Focus: <span style='color:#cc0000'>Finalize a working vision</span>
 - [x] Confirm stance on pursuit of varsity
@@ -14,19 +14,11 @@ title: Project Overview
 # Unspecified timeline
 ## Current projects  
 ### Gather additional input or solicit additional working group help
-- ~~**Trenary** and **Bodner** discussed with full team~~
-- ~~**Palladino** contacting 2010s players~~
-- ~~**Rose** and **Haldane** contacting Gress~~
-- ~~**Trenary** reached out to Steve Cohen and other alumni~~
-- <span style='color:green'>+ Ad-hoc conversations occurring</span>
+- Ad-hoc conversations occurring
 - All members are encouraged to continue reaching out to their network
-- ~~Presentation available for other conversations~~
-
-### Confirm stance on pursuit of varsity
-- [x] Completed and [archived here](completed.md)
 
 ### Share initial vision thoughts with Rec Sports development team
-- **Trenary** and **Bodner** ~~will share~~ <span style='color:green'>+ shared</span> with Rec Sports development team and ~~arrange~~ <span style='color:green'>are arranging</span> a meeting
+- **Trenary** and **Bodner** shared with Rec Sports development team and are arranging a meeting
 
 ### Clarify collaboration between men's and women's teams
 - Unanimous support for collaboration
@@ -37,14 +29,14 @@ title: Project Overview
 ### Prioritize field/fieldhouse
 - Address outstanding Elbel questions and feasibility study
     - Waiting on: Guidance from Rec Sports development team after introductions
-    - Can still research and discuss prior to Rec Sports development team guidance
+    - ~~Can still research and discuss prior to Rec Sports development team guidance~~
+    - <span style='color:green'>+ Internal discussion and research has begun</span>
 
 ## Upcoming Projects
 ### Introduce Forwards to Rec Sports development team
-- Waiting on: Initial vision presentation ~~share~~ <span style='color:green'>+ meeting</span>
+- Waiting on: Initial vision presentation meeting
     
 ### Estimate total campaign fundraising goal
-- ~~Waiting on: Confirmation of stance on pursuit of varsity~~
 - Waiting on: Field/fieldhouse prioritization
 - Waiting on: Clarity of collaboration between men's and women's teams
 
