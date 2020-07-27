@@ -30,7 +30,7 @@ title: Project Overview
 - Address outstanding Elbel questions and feasibility study
     - Waiting on: Guidance from Rec Sports development team after introductions
     - ~~Can still research and discuss prior to Rec Sports development team guidance~~
-    - <span style='color:green'>+ Internal discussions and research underway</span>
+    - <span style='color:green'>+ Internal discussions and [research](../misc/example_facilities.md) underway</span>
 
 ## Upcoming Projects
 ### Introduce Forwards to Rec Sports development team
