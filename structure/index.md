@@ -36,3 +36,5 @@ title: Working Groups
 - Bill Haldane
 - Matt Kasten
 - Ben Shapiro
+- Andrew Swain
+- James Wilber
