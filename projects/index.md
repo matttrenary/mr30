@@ -1,7 +1,7 @@
 ---
 title: Project Overview
 ---
-***As of July 26, 2020***
+***As of August 2, 2020***
 
 # 2020 Focus: <span style='color:#cc0000'>Finalize a working vision</span>
 - [x] Confirm stance on pursuit of varsity
@@ -18,7 +18,7 @@ title: Project Overview
 - All members are encouraged to continue reaching out to their network
 
 ### Share initial vision thoughts with Rec Sports development team
-- **Trenary** and **Bodner** shared with Rec Sports development team and are arranging a meeting
+- **Trenary** and **Bodner** shared with Rec Sports development team and are ~~arranging a meeting~~ <span style='color:green'>+ meeting with them August 3</span>
 
 ### Clarify collaboration between men's and women's teams
 - Unanimous support for collaboration
@@ -29,8 +29,8 @@ title: Project Overview
 ### Prioritize field/fieldhouse
 - Address outstanding Elbel questions and feasibility study
     - Waiting on: Guidance from Rec Sports development team after introductions
-    - ~~Can still research and discuss prior to Rec Sports development team guidance~~
-    - <span style='color:green'>+ Internal discussions and [research](../misc/example_facilities.md) underway</span>
+    - Internal discussions and [research](../misc/example_facilities.md) underway
+- <span style='color:green'>+ Would an off-campus facility impact potential for varsity team in long run?</span>
 
 ## Upcoming Projects
 ### Introduce Forwards to Rec Sports development team
