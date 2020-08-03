@@ -30,7 +30,7 @@ title: Project Overview
 - Address outstanding Elbel questions and feasibility study
     - Waiting on: Guidance from Rec Sports development team after introductions
     - Internal discussions and [research](../misc/example_facilities.md) underway
-- <span style='color:green'>+ Would an off-campus facility impact potential for varsity team in long run?</span>
+- <span style='color:green'>Clarify what details (location, cost, timeline, control, etc.) are necessary to confirm before including in working vision</span>
 
 ## Upcoming Projects
 ### Introduce Forwards to Rec Sports development team
