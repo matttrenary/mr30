@@ -55,6 +55,16 @@ title: Example Facilities
 - $4m raised of $8.3m campaign.
 - [Additional Info](https://www.chicagolions.com/wp-content/uploads/2017/08/CLCA-Lions-for-Hope-Sports-Complex-costs.pdf)
 
+### Life University
+- <img src="https://liferunningeagles.com/common/controls/image_handler.aspx?thumb_id=12&image_path=/images/2018/5/15/lupo_family_field.JPG" width="500/>
+- Lupo Family Field
+    - Turf field
+    - Concrete terrace seating
+    - Conex box press boxes
+- Completed in 2016
+- $2m
+    - Lead donor, group campaign, school funding
+
 ## Non-rugby at Michigan
 ### Michigan Soccer
 - <img src="https://assets.simpleviewinc.com/simpleview/image/fetch/c_limit,q_75,w_1200/https://assets.simpleviewinc.com/simpleview/image/upload/crm/annarbor/U-M-Soccer-Stadium_Aerial0-3612e2a05056a36_3612e3ee-5056-a36a-06963b6319c39be0.jpg" alt="U-M Soccer Stadium" width="500"/>
