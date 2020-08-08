@@ -56,7 +56,7 @@ title: Example Facilities
 - [Additional Info](https://www.chicagolions.com/wp-content/uploads/2017/08/CLCA-Lions-for-Hope-Sports-Complex-costs.pdf)
 
 ### Life University
-- <img src="https://liferunningeagles.com/common/controls/image_handler.aspx?thumb_id=12&image_path=/images/2018/5/15/lupo_family_field.JPG" width="500/>
+- <img src="https://liferunningeagles.com/common/controls/image_handler.aspx?thumb_id=12&image_path=/images/2018/5/15/lupo_family_field.JPG" alt="Lupo Family Field" width="500"/>
 - Lupo Family Field
     - Turf field
     - Concrete terrace seating
