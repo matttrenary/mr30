@@ -64,6 +64,7 @@ title: Example Facilities
 - Completed in 2016
 - $2m
     - Lead donor, group campaign, school funding
+- [Additional Info](https://liferunningeagles.com/sports/2017/9/6/lupo-family-field.aspx)
 
 ## Non-rugby at Michigan
 ### Michigan Soccer
