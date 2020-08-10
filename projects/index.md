@@ -1,7 +1,7 @@
 ---
 title: Project Overview
 ---
-***As of August 2, 2020***
+***As of August 9, 2020***
 
 # 2020 Focus: <span style='color:#cc0000'>Finalize a working vision</span>
 - [x] Confirm stance on pursuit of varsity
@@ -18,7 +18,9 @@ title: Project Overview
 - All members are encouraged to continue reaching out to their network
 
 ### Share initial vision thoughts with Rec Sports development team
-- **Trenary** and **Bodner** shared with Rec Sports development team and are ~~arranging a meeting~~ <span style='color:green'>+ meeting with them August 3</span>
+- **Trenary** and **Bodner** ~~shared with Rec Sports development team and are meeting~~ <span style='color:green'>+ met</span> with them August 3
+- <span style='color:green'>+ Positive and no concerns. See [weekly update](/updates/2020-08-09.md) for more details.</span>
+- <span style='color:green'>+ Will keep open for a week as we digest, and then close project</span>
 
 ### Clarify collaboration between men's and women's teams
 - Unanimous support for collaboration
@@ -28,13 +30,15 @@ title: Project Overview
 
 ### Prioritize field/fieldhouse
 - Address outstanding Elbel questions and feasibility study
-    - Waiting on: Guidance from Rec Sports development team after introductions
-    - Internal discussions and [research](../misc/example_facilities.md) underway
-- <span style='color:green'>Clarify what details (location, cost, timeline, control, etc.) are necessary to confirm before including in working vision</span>
+    - ~~Waiting on: Guidance from Rec Sports development team after introductions~~
+    - <span style='color:green'>+ Given the delayed state of Rec Sports facility work, we'll likely need to develop our working vision without knowing Elbel details</span>
+- Internal discussions and [research](../misc/example_facilities.md) underway
+- Clarify what details (location, cost, timeline, control, etc.) are necessary to confirm before including in working vision
 
 ## Upcoming Projects
 ### Introduce Forwards to Rec Sports development team
-- Waiting on: Initial vision presentation meeting
+- ~~Waiting on: Initial vision presentation meeting~~
+- <span style='color:green'>+ **Trenary** will schedule</span>
     
 ### Estimate total campaign fundraising goal
 - Waiting on: Field/fieldhouse prioritization
