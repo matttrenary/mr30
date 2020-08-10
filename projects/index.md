@@ -19,7 +19,7 @@ title: Project Overview
 
 ### Share initial vision thoughts with Rec Sports development team
 - **Trenary** and **Bodner** ~~shared with Rec Sports development team and are meeting~~ <span style='color:green'>+ met</span> with them August 3
-- <span style='color:green'>+ Positive and no concerns. See [weekly update](/updates/2020-08-09.md) for more details.</span>
+- <span style='color:green'>+ Positive and no concerns. See [weekly update](../updates/2020-08-09.md) for more details.</span>
 - <span style='color:green'>+ Will keep open for a week as we digest, and then close project</span>
 
 ### Clarify collaboration between men's and women's teams
