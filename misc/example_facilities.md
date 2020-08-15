@@ -73,7 +73,7 @@ title: Example Facilities
     - Bleachers
     - Shed
     - Approved 8,000 sq ft clubhouse
-- Land, fields, and shed completed around 2010
+- Land, fields, and shed completed in 2010
 - Construction approved for clubhouse
     - $1.6m
     - Matching donor up to $500k plus group campaign
