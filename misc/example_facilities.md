@@ -66,6 +66,19 @@ title: Example Facilities
     - Lead donor, group campaign, school funding
 - [Additional Info](https://liferunningeagles.com/sports/2017/9/6/lupo-family-field.aspx)
 
+### Madison United Rugby
+- <img src="http://rugbymadison.org/wp-content/uploads/2020/04/East-SouthEast-View.jpg" alt="Wisconsin Rugby Sports Complex" width="500"/>
+- Wisconsin Rugby Sports Complex
+    - Two grass fields
+    - Bleachers
+    - Shed
+    - Approved 8,000 sq ft clubhouse
+- Land, fields, and shed completed around 2010
+- Construction approved for clubhouse
+    - $1.6m
+    - Matching donor up to $500k plus group campaign
+- [Additional Info](http://rugbymadison.org/sports-complex/clubhouse-2020/)
+
 ## Non-rugby at Michigan
 ### Michigan Soccer
 - <img src="https://assets.simpleviewinc.com/simpleview/image/fetch/c_limit,q_75,w_1200/https://assets.simpleviewinc.com/simpleview/image/upload/crm/annarbor/U-M-Soccer-Stadium_Aerial0-3612e2a05056a36_3612e3ee-5056-a36a-06963b6319c39be0.jpg" alt="U-M Soccer Stadium" width="500"/>
