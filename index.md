@@ -13,6 +13,7 @@ title: MR30
 - [Project Overview](/projects/index.md)
 - [Weekly Updates](/projects/updates/index.md)
 - [Completed Projects](/projects/completed.md)
+- [Archived Project Overviews](/projects/overviews/index.md)
 
 ## Miscellaneous
 - [Example facilities](/misc/example_facilities.md)
