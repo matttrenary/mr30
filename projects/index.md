@@ -44,9 +44,9 @@ title: Project Overview
 - <span style='color:green'> + Bodner identifying initial operational needs</span>
 
 ## Upcoming projects
-### Share working vision with Rec Sports development team
-- Waiting on: Estimate and prioritize campaign fundraising goals
-- Expect to receive guidance on goals, estimation, and prioritization
+### <span style='color:green'>+ Share working vision with Rec Sports development team</span>
+- <span style='color:green'>+ Waiting on: Estimate and prioritize campaign fundraising goals</span>
+- <span style='color:green'>+ Expect to receive guidance on goals, estimation, and prioritization</span>
 
 ### <span style='color:#cc0000'>Milestone:</span> **Finalize working vision**
 
