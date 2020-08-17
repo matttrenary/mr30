@@ -29,7 +29,7 @@ title: Project Overview
 ### Prioritize field/fieldhouse
 - Address outstanding Elbel questions and feasibility study
     - Given the delayed state of Rec Sports facility work, we'll likely need to develop our working vision without knowing Elbel details
-- Internal discussions and [research](../misc/example_facilities.md) underway
+- ~~Internal~~ Discussions and [research](../misc/example_facilities.md) ~~underway~~ <span style='color:green'>+ ongoing</span>
 - Clarify what details (location, cost, timeline, control, etc.) are necessary to confirm before including in working vision
 
 ### Introduce ~~Forwards~~ <span style='color:green'>Working Group</span> to Rec Sports development team
