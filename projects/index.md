@@ -40,7 +40,7 @@ title: Project Overview
     - <span style='color:green'>+ Milestones</span>
     - ~~Waiting on:~~ Field/fieldhouse prioritization
     - ~~Waiting on:~~ Clarity of collaboration between men's and women's teams
-- <span style='color:green'> + Seibert leading draft of working vision to drive goal prioritization</span>
+- <span style='color:green'> + Seibert, Frech, and Trenary leading draft of working vision to drive goal prioritization</span>
 - <span style='color:green'> + Bodner identifying initial operational needs</span>
 
 ## Upcoming projects
