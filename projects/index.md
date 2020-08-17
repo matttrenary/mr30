@@ -32,7 +32,7 @@ title: Project Overview
 - Internal discussions and [research](../misc/example_facilities.md) underway
 - Clarify what details (location, cost, timeline, control, etc.) are necessary to confirm before including in working vision
 
-### Introduce Forwards to Rec Sports development team
+### Introduce ~~Forwards~~ <span style='color:green'>Working Group</span> to Rec Sports development team
 - **Trenary** will schedule
 
 ### Estimate ~~total~~ <span style='color:green'> + and prioritize</span> campaign fundraising ~~goal~~ <span style='color:green'>+ goals</span>
