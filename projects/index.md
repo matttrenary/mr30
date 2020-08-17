@@ -18,7 +18,7 @@ title: Project Overview
 - All members are encouraged to continue reaching out to their network
 
 ### Share initial vision thoughts with Rec Sports development team
-- [x] Completed and [archived here](/projects/completed.md)
+- [x] Completed and [archived here](/projects/completed.html)
 
 ### Clarify collaboration between men's and women's teams
 - Unanimous support for collaboration
