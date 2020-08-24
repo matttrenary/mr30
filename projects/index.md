@@ -12,6 +12,9 @@ title: Project Overview
 - Create working vision presentation to share with potential supporters and donors
 
 # Unspecified timeline
+## Completed projects
+- [Archived here](/completed.md)
+
 ## Current projects  
 ### Gather additional input or solicit additional working group help
 - Ad-hoc conversations occurring
