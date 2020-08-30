@@ -2,7 +2,7 @@
 title: Facility Details
 ---
 # Field use
-## Estimate football
+## Estimate footfall
 Total rugby hours/year: 1756
 Anticipated maintenance hours/year: 175.6
 Average rugby hours/month: 36.6
