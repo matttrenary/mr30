@@ -7,6 +7,7 @@ title: Facility Details
 - Total rugby hours/year: 1756
 - Anticipated maintenance hours/year: 175.6
 - Average rugby hours/month: 36.6
+
 ### Assumptions
 - Calculations based on three 15s sides, 7s sides, and intrasquad competition for both men and women
 -- 7s sides calculated as half of a 15s side
@@ -19,6 +20,7 @@ title: Facility Details
 - For every 10 hours of use, 1 hour of maintenance is projected
 - Additional quarterly maintenance should also be considered
 - Necessary maintenance equipment is projected to be 2-3% of total project cost
+
 ### Lifetime use
 - Usage is generally labeled low, medium, and high. Above 35 hours per week lands the estimation in the medium usage band. 
 - Rugby exceeds 35 hours/week six months of the year. Rugby exceeds 50 hours/week (high) five months of the year. 
