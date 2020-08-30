@@ -3,10 +3,11 @@ title: Facility Details
 ---
 # Field use
 ## Estimate footfall
-Total rugby hours/year: 1756
-Anticipated maintenance hours/year: 175.6
-Average rugby hours/month: 36.6
-Rugby Assumptions
+### Summary
+- Total rugby hours/year: 1756
+- Anticipated maintenance hours/year: 175.6
+- Average rugby hours/month: 36.6
+### Assumptions
 - Calculations based on three 15s sides, 7s sides, and intrasquad competition for both men and women
 -- 7s sides calculated as half of a 15s side
 - Outside groups such as the city team get several hours per week in March and November as potential cover during worse weather months
