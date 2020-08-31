@@ -1,7 +1,7 @@
 ---
 title: Project Overview
 ---
-***As of August 23, 2020***
+***As of August 30, 2020***
 
 # 2020 Focus: <span style='color:#cc0000'>Finalize a working vision</span>
 - [x] Confirm stance on pursuit of varsity
@@ -29,18 +29,18 @@ title: Project Overview
 ### Prioritize field/fieldhouse
 - Address outstanding Elbel questions and feasibility study
     - Given the delayed state of Rec Sports facility work, we'll likely need to develop our working vision without knowing Elbel details
-- Discussions and [research](../misc/example_facilities.md) ongoing
+- Discussions and [research](../misc/index.md) ongoing
 - Clarify what details (location, cost, timeline, control, etc.) are necessary to confirm before including in working vision
 
 ### Introduce Working Group to Rec Sports development team
-- ~~**Trenary** will schedule~~ <span style='color:green'>+ Meeting slotted for September 9 unless major conflicts exist</span>
+- Meeting slotted for September 9 <span style='color:green'>+ at 11am</span>~~unless major conflicts exist~~
 
 ### Estimate and prioritize campaign fundraising goals
 - Includes
     - Milestones
     - Field/fieldhouse prioritization
     - Clarity of collaboration between men's and women's teams
-- <span style='color:green'>+ Bodner,</span> Frech, Seibert, and Trenary leading draft of working vision to drive goal prioritization
+- Bodner, Frech, Seibert, and Trenary leading draft of working vision to drive goal prioritization
 - Bodner identifying initial operational needs
 
 ## Upcoming projects
