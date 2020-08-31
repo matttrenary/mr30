@@ -20,3 +20,4 @@ title: MR30
 
 ## Miscellaneous
 - [Example facilities](/misc/example_facilities.md)
+- [Facility details](/misc/facility_details.md)
