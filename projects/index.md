@@ -33,7 +33,7 @@ title: Project Overview
 - Clarify what details (location, cost, timeline, control, etc.) are necessary to confirm before including in working vision
 
 ### Introduce Working Group to Rec Sports development team
-- Meeting slotted for September 9 <span style='color:green'>+ at 11am</span>~~unless major conflicts exist~~
+- Meeting slotted for September 9 <span style='color:green'>+ at 11am</span> ~~unless major conflicts exist~~
 
 ### Estimate and prioritize campaign fundraising goals
 - Includes
