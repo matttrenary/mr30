@@ -1,6 +1,7 @@
 ---
 title: Archived Project Overviews
 ---
+- [August 30, 2020](2020-08-30.md)
 - [August 23, 2020](2020-08-23.md)
 - [August 16, 2020](2020-08-16.md)
 - [August 9, 2020](2020-08-09.md)
