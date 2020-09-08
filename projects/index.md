@@ -1,7 +1,7 @@
 ---
 title: Project Overview
 ---
-***As of August 30, 2020***
+***As of September 7, 2020***
 
 # 2020 Focus: <span style='color:#cc0000'>Finalize a working vision</span>
 - [x] Confirm stance on pursuit of varsity
@@ -33,7 +33,7 @@ title: Project Overview
 - Clarify what details (location, cost, timeline, control, etc.) are necessary to confirm before including in working vision
 
 ### Introduce Working Group to Rec Sports development team
-- Meeting slotted for September 9 <span style='color:green'>+ at 11am</span> ~~unless major conflicts exist~~
+- Meeting slotted for September 9 at 11am
 
 ### Estimate and prioritize campaign fundraising goals
 - Includes
