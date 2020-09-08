@@ -1,6 +1,7 @@
 ---
 title: Weekly Updates
 ---
+- [September 7, 2020](2020-09-07.md)
 - [August 30, 2020](2020-08-30.md)
 - [August 23, 2020](2020-08-23.md)
 - [August 16, 2020](2020-08-16.md)
