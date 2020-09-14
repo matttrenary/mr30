@@ -1,6 +1,11 @@
 ---
 title: Completed Projects
 ---
+## Finished September 13, 2020
+### Introduce Working Group to Rec Sports development team
+- Meeting occurred on September 9, 2020
+- Positive and engaging with major points outline in [monthly call](/meetings/2020-09-10.html)
+
 ## Finished August 9, 2020
 ### Share initial vision thoughts with Rec Sports development team
 - We need to develop specific goals and timelines
