@@ -27,6 +27,7 @@ title: Working Groups
 - Vanessa Rojano
 - Aaron Turk
 - Tom Warburton
+- James Wilber
 
 ## Bench
 - Jared Bosma
@@ -37,4 +38,3 @@ title: Working Groups
 - Matt Kasten
 - Ben Shapiro
 - Andrew Swain
-- James Wilber
