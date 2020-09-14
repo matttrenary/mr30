@@ -1,11 +1,11 @@
 ---
 title: Project Overview
 ---
-***As of September 7, 2020***
+***As of September 13, 2020***
 
 # 2020 Focus: <span style='color:#cc0000'>Finalize a working vision</span>
-- [x] Confirm stance on pursuit of varsity
-- [x] Establish initial project timeline
+- [x] [Confirm stance on pursuit of varsity](/completed.html)
+- [x] [Establish initial project timeline](/completed.html)
 - Clarify collaboration between men's and women's teams
 - Prioritize field/fieldhouse
 - Estimate and prioritize campaign fundraising goals
@@ -28,20 +28,21 @@ title: Project Overview
 
 ### Prioritize field/fieldhouse
 - Address outstanding Elbel questions and feasibility study
-    - Given the delayed state of Rec Sports facility work, we'll likely need to develop our working vision without knowing Elbel details
+    - Given the delayed state of Rec Sports facility work <span style='color:green'>+ and a lack of lead donor</span>, we'll ~~likely~~ need to develop our working vision without knowing Elbel details
+- <span style='color:green'>+ Rec Sports identified Elbel as the most likely location for a rugby project</span>
 - Discussions and [research](../misc/index.md) ongoing
 - Clarify what details (location, cost, timeline, control, etc.) are necessary to confirm before including in working vision
 
 ### Introduce Working Group to Rec Sports development team
-- Meeting slotted for September 9 at 11am
+- [x] Completed and [archived here](/projects/completed.html)
 
 ### Estimate and prioritize campaign fundraising goals
 - Includes
     - Milestones
     - Field/fieldhouse prioritization
     - Clarity of collaboration between men's and women's teams
-- Bodner, Frech, Seibert, and Trenary leading draft of working vision to drive goal prioritization
-- Bodner identifying initial operational needs
+- Bodner, Frech, <span style='color:green'>+ Rojano,</span> Seibert, and Trenary ~~leading draft~~ <span style='color:green'>+ continuing to draft iterations</span> of working vision to drive goal prioritization
+- Bodner ~~identifying~~ <span style='color:green'>+ identified</span> initial operational needs <span style='color:green'>+ which have been included in draft iterations</span>
 
 ## Upcoming projects
 ### Share working vision with Rec Sports development team
