@@ -1,7 +1,7 @@
 ---
 title: Project Overview
 ---
-***As of September 13, 2020***
+***As of September 20, 2020***
 
 # 2020 Focus: <span style='color:#cc0000'>Finalize a working vision</span>
 - [x] [Confirm stance on pursuit of varsity](/completed.html)
@@ -28,21 +28,18 @@ title: Project Overview
 
 ### Prioritize field/fieldhouse
 - Address outstanding Elbel questions and feasibility study
-    - Given the delayed state of Rec Sports facility work <span style='color:green'>+ and a lack of lead donor</span>, we'll ~~likely~~ need to develop our working vision without knowing Elbel details
-- <span style='color:green'>+ Rec Sports identified Elbel as the most likely location for a rugby project</span>
+    - Given the delayed state of Rec Sports facility work and a lack of lead donor, we'll need to develop our working vision without knowing Elbel details
+- Rec Sports identified Elbel as the most likely location for a rugby project
 - Discussions and [research](../misc/index.md) ongoing
 - Clarify what details (location, cost, timeline, control, etc.) are necessary to confirm before including in working vision
-
-### Introduce Working Group to Rec Sports development team
-- [x] Completed and [archived here](/projects/completed.html)
 
 ### Estimate and prioritize campaign fundraising goals
 - Includes
     - Milestones
     - Field/fieldhouse prioritization
     - Clarity of collaboration between men's and women's teams
-- Bodner, Frech, <span style='color:green'>+ Rojano,</span> Seibert, and Trenary ~~leading draft~~ <span style='color:green'>+ continuing to draft iterations</span> of working vision to drive goal prioritization
-- Bodner ~~identifying~~ <span style='color:green'>+ identified</span> initial operational needs <span style='color:green'>+ which have been included in draft iterations</span>
+- Bodner, Frech, Rojano, Seibert, and Trenary continuing to draft iterations of working vision to drive goal prioritization
+- Bodner identified initial operational needs which have been included in draft iterations
 
 ## Upcoming projects
 ### Share working vision with Rec Sports development team
