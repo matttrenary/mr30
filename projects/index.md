@@ -1,7 +1,7 @@
 ---
 title: Project Overview
 ---
-***As of September 20, 2020***
+***As of September 27, 2020***
 
 # 2020 Focus: <span style='color:#cc0000'>Finalize a working vision</span>
 - [x] [Confirm stance on pursuit of varsity](/completed.html)
