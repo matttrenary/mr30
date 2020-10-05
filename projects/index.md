@@ -4,8 +4,8 @@ title: Project Overview
 ***As of October 4, 2020***
 
 # 2020 Focus: <span style='color:#cc0000'>Finalize a working vision</span>
-- [x] [Confirm stance on pursuit of varsity](/completed.html)
-- [x] [Establish initial project timeline](/completed.html)
+- [x] [Confirm stance on pursuit of varsity](/projects/completed.html)
+- [x] [Establish initial project timeline](/projects/completed.html)
 - Clarify collaboration between men's and women's teams
 - Prioritize field/fieldhouse
 - Estimate and prioritize campaign fundraising goals
