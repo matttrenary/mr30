@@ -28,7 +28,7 @@ title: Project Overview
 
 ### Prioritize field/fieldhouse
 ~~- Address outstanding Elbel questions and feasibility study~~
-- Given the ~~delayed state of Rec Sports facility work and a ~~lack of lead donor<span style='color:green'>+s</span>, ~~we'll need to develop~~our working vision ~~without knowing Elbel details~~will include general facility options but no specific cost or timeline
+- Given the ~~delayed state of Rec Sports facility work and a~~ lack of lead donor<span style='color:green'>+s</span>, ~~we'll need to develop~~ our working vision ~~without knowing Elbel details~~ will include general facility options but no specific cost or timeline
 - <span style='color:green'>+Facility depends on donors and will be pursued in parallel to other vision items</span>
 - Rec Sports identified Elbel as the most likely location for a <span style='color:green'>+Rec Sports</span> rugby project
 - Discussions and [research](../misc/index.md) ongoing
@@ -36,6 +36,7 @@ title: Project Overview
 
 ### Estimate and prioritize campaign fundraising goals
 - Includes
+    - <span style='color:green'>+ Development priorities</span>
     - Milestones
     - Field/fieldhouse prioritization
     - Clarity of collaboration between men's and women's teams
