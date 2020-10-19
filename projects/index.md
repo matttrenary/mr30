@@ -30,7 +30,7 @@ title: Project Overview
 - ~~Address outstanding Elbel questions and feasibility study~~
 - Given the ~~delayed state of Rec Sports facility work and a~~ lack of lead donor<span style='color:green'>+s</span>, ~~we'll need to develop~~ our working vision ~~without knowing Elbel details~~ will include facility desires and options but no hard cost or timeline
 - <span style='color:green'>+ Facility will be pursued in parallel to other vision items</span>
-    - <span style='color:green'>+ First step is to identify potential lead donors</span>
+    - <span style='color:green'>+ The first step is to identify potential lead donors</span>
 - Rec Sports identified Elbel as the most likely location for a <span style='color:green'>+ Rec Sports</span> rugby project
 - Discussions and [research](../misc/index.md) ongoing
 - ~~Clarify what details (location, cost, timeline, control, etc.) are necessary to confirm before including in working vision~~
