@@ -1,6 +1,7 @@
 ---
 title: Archived Project Overviews
 ---
+- [October 11, 2020](2020-10-11.md)
 - [October 4, 2020](2020-10-04.md)
 - [September 27, 2020](2020-09-27.md)
 - [September 20, 2020](2020-09-20.md)
