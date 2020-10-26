@@ -9,6 +9,7 @@ title: MR30
 - [Cadence and Working Groups](/structure/index.md)
 
 ## Meeting notes
+- Upcoming November 10, 2020 8pm
 - [October 8, 2020](/meetings/2020-10-08.md)
 - [September 10, 2020](/meetings/2020-09-10.md)
 - [August 13, 2020](/meetings/2020-08-13.md)
