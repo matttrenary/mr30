@@ -1,6 +1,7 @@
 ---
 title: Weekly Updates
 ---
+- [November 8, 2020](2020-11-08.md)
 - [November 1, 2020](2020-11-01.md)
 - [October 25, 2020](2020-10-25.md)
 - [October 18, 2020](2020-10-18.md)
