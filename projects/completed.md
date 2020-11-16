@@ -1,6 +1,14 @@
 ---
 title: Completed Projects
 ---
+## Finished November 15, 2020
+### Prioritize field/fieldhouse
+- Given the lack of lead donors, our working vision will include facility desires and options but no hard cost or timeline
+- Facility will be pursued in parallel to other vision items
+    - The first step is to identify potential lead donors
+- Rec Sports identified Elbel as the most likely location for a Rec Sports rugby project
+- [Research](../misc/index.md) on various facilities compiled
+
 ## Finished September 13, 2020
 ### Introduce Working Group to Rec Sports development team
 - Meeting occurred on September 9, 2020
