@@ -7,7 +7,7 @@ title: Project Overview
 - [x] [Confirm stance on pursuit of varsity](/projects/completed.html)
 - [x] [Establish initial project timeline](/projects/completed.html)
 - Clarify collaboration between men's and women's teams
-- [x] Prioritize field/fieldhouse
+- [x] [Prioritize field/fieldhouse](/projects/completed.html)
 - Estimate and prioritize campaign fundraising goals
 - Create working vision presentation to share with potential supporters and donors
 
