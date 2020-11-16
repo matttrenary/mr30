@@ -30,11 +30,14 @@ title: Working Groups
 - James Wilber
 
 ## Bench
+- Rebecca Belian
 - Jared Bosma
 - Joel Conzelmann
 - Wes Farrow
 - Nate Fisher
 - Bill Haldane
 - Matt Kasten
+- Meg Loomis
 - Ben Shapiro
 - Andrew Swain
+- Sam Taylordean
