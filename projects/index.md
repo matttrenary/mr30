@@ -1,13 +1,13 @@
 ---
 title: Project Overview
 ---
-***As of November 8, 2020***
+***As of November 15, 2020***
 
 # 2020 Focus: <span style='color:#cc0000'>Finalize a working vision</span>
 - [x] [Confirm stance on pursuit of varsity](/projects/completed.html)
 - [x] [Establish initial project timeline](/projects/completed.html)
 - Clarify collaboration between men's and women's teams
-- Prioritize field/fieldhouse
+- [x] Prioritize field/fieldhouse
 - Estimate and prioritize campaign fundraising goals
 - Create working vision presentation to share with potential supporters and donors
 
@@ -16,7 +16,7 @@ title: Project Overview
 - [Archived here](/completed.md)
 
 ## Current projects  
-### Gather additional input or solicit additional working group help
+### Gather additional input or solicit additional Working Group help
 - Ad-hoc conversations occurring
 - All members are encouraged to continue reaching out to their network
 
@@ -24,14 +24,10 @@ title: Project Overview
 - Unanimous support for collaboration
 - No issues with soliciting for joint projects
 - Clarity of vision and mechanics of fundraising will determine exact collaboration
-- Will continue gathering input (Cohen, Rec Sports development, women’s alumni, other projects, etc.) to inform collaboration
+- Will continue gathering input (Cohen, Rec Sports development, women’s alumnae, other projects, etc.) to inform collaboration
 
 ### Prioritize field/fieldhouse
-- Given the lack of lead donors, our working vision will include facility desires and options but no hard cost or timeline
-- Facility will be pursued in parallel to other vision items
-    - The first step is to identify potential lead donors
-- Rec Sports identified Elbel as the most likely location for a Rec Sports rugby project
-- Discussions and [research](../misc/index.md) ongoing
+- [x] Completed and [archived here](/projects/completed.html)
 
 ### Estimate and prioritize campaign fundraising goals
 - Includes
