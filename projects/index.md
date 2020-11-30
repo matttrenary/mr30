@@ -30,16 +30,11 @@ title: Project Overview
 - [x] Completed and [archived here](/projects/completed.html)
 
 ### Estimate and prioritize campaign fundraising goals
-- ~~Includes~~
-    - ~~Development priorities~~
-    - ~~Milestones~~
-    - ~~Field/fieldhouse prioritization~~
-- <span style='color:green'>+ Can add </span> clarity of collaboration between men's and women's teams
-- ~~Bodner, Frech, Rojano, Seibert, and Trenary continuing to draft iterations of working vision to drive goal prioritization~~
-- <span style='color:green'>+ Trenary will lead gathering of additional feedback and any final additions to Working Vision</span>
+- Can add clarity of collaboration between men's and women's teams
+- Trenary will lead gathering of additional feedback and any final additions to Working Vision
 
 ### Share working vision with Rec Sports development team
-- ~~Waiting on:~~ Estimate and prioritize campaign fundraising goals
+- <span style='color:green'>+ Shared with Rec Sports development team</span>
 - Expect to receive guidance on goals, estimation, and prioritization
 
 ### <span style='color:#cc0000'>Milestone:</span> **Finalize working vision**
