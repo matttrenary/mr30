@@ -26,9 +26,6 @@ title: Project Overview
 - Clarity of vision and mechanics of fundraising will determine exact collaboration
 - Will continue gathering input (Cohen, Rec Sports development, women’s alumnae, other projects, etc.) to inform collaboration
 
-### Prioritize field/fieldhouse
-- [x] Completed and [archived here](/projects/completed.html)
-
 ### Estimate and prioritize campaign fundraising goals
 - Can add clarity of collaboration between men's and women's teams
 - Trenary will lead gathering of additional feedback and any final additions to Working Vision
