@@ -31,8 +31,8 @@ title: Project Overview
 - Trenary will lead gathering of additional feedback and any final additions to Working Vision
 
 ### Share working vision with Rec Sports development team
-- <span style='color:green'>+ Shared with Rec Sports development team</span>
-- Expect to receive guidance on goals, estimation, and prioritization
+- Shared with Rec Sports development team
+- ~~Expect to~~ Received guidance on goals, estimation, and prioritization
 
 ### <span style='color:#cc0000'>Milestone:</span> **Finalize working vision**
 
