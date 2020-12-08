@@ -22,6 +22,8 @@ title: Working Groups
 ## Backs
 - Jake Bodner
 - Jeff Hagan
+- George Janke
+- Tianna Kilgore
 - Mike Lisi
 - John Moore
 - Vanessa Rojano
