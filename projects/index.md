@@ -32,7 +32,7 @@ title: Project Overview
 
 ### Share working vision with Rec Sports development team
 - Shared with Rec Sports development team
-- ~~Expect to~~ Received guidance on goals, estimation, and prioritization <span style='color:green'>+ and are clarifying their feedback</span>
+- Received guidance on goals, estimation, and prioritization <span style='color:green'>+ and are clarifying their feedback</span>
 
 ### <span style='color:#cc0000'>Milestone:</span> **Finalize working vision**
 
