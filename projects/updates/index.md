@@ -1,6 +1,7 @@
 ---
 title: Weekly Updates
 ---
+- [December 27, 2020](2020-12-27.md)
 - [December 13, 2020](2020-12-13.md)
 - [December 7, 2020](2020-12-07.md)
 - [November 29, 2020](2020-11-29.md)
