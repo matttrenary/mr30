@@ -1,7 +1,7 @@
 ---
 title: Project Overview
 ---
-***As of December 27, 2020***
+***As of January 3, 2021***
 
 # 2020 Focus: <span style='color:#cc0000'>Finalize a working vision</span>
 - [x] [Confirm stance on pursuit of varsity](/projects/completed.html)
@@ -32,7 +32,7 @@ title: Project Overview
 
 ### Share working vision with Rec Sports development team
 - Shared with Rec Sports development team
-- Received guidance on goals, estimation, and prioritization and are ~~clarifying~~ <span style='color:green'>processing</span> their feedback
+- Received guidance on goals, estimation, and prioritization and are processing their feedback
 
 ### <span style='color:#cc0000'>Milestone:</span> **Finalize working vision**
 
