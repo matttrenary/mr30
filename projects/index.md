@@ -1,12 +1,13 @@
 ---
 title: Project Overview
 ---
-***As of January 3, 2021***
+***As of January 10, 2021***
 
 # 2020 Focus: <span style='color:#cc0000'>Finalize a working vision</span>
+- [x] [Gather additional input or solicit additional Working Group help](/projects/completed.html)
 - [x] [Confirm stance on pursuit of varsity](/projects/completed.html)
 - [x] [Establish initial project timeline](/projects/completed.html)
-- Clarify collaboration between men's and women's teams
+- [x] [Clarify collaboration between men's and women's teams](/projects/completed.html)
 - [x] [Prioritize field/fieldhouse](/projects/completed.html)
 - Estimate and prioritize campaign fundraising goals
 - Create working vision presentation to share with potential supporters and donors
@@ -17,18 +18,15 @@ title: Project Overview
 
 ## Current projects  
 ### Gather additional input or solicit additional Working Group help
-- Ad-hoc conversations occurring
-- All members are encouraged to continue reaching out to their network
+- <a href='/projects/completed.html'><span style='color:green'>+ Moved to complete</span></a>
 
 ### Clarify collaboration between men's and women's teams
-- Unanimous support for collaboration
-- No issues with soliciting for joint projects
-- Clarity of vision and mechanics of fundraising will determine exact collaboration
-- Will continue gathering input (Cohen, Rec Sports development, women’s alumnae, other projects, etc.) to inform collaboration
+- <a href='/projects/completed.html'><span style='color:green'>+ Moved to complete</span></a>
 
 ### Estimate and prioritize campaign fundraising goals
-- Can add clarity of collaboration between men's and women's teams
-- Trenary will lead gathering of additional feedback and any final additions to Working Vision
+- ~~Can add clarity of collaboration between men's and women's teams~~
+- ~~Trenary will lead gathering of additional feedback and any final additions to Working Vision~~
+- <span style='color:green'>+ Discussion needed on separation of Rec Sports / Athletics pursuits and its impact on fundraising goals and strategy</span>
 
 ### Share working vision with Rec Sports development team
 - Shared with Rec Sports development team
