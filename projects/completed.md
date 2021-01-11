@@ -1,6 +1,15 @@
 ---
 title: Completed Projects
 ---
+## Finished January 10, 2021
+### Clarify collaboration between men's and women's teams
+- Unanimous support for collaboration
+- No issues with soliciting for joint projects
+- Mechanics of fundraising will determine exact collaboration
+
+### Gather additional input or solicit additional Working Group help
+- Working Group spans many decades for both men and women
+
 ## Finished November 15, 2020
 ### Prioritize field/fieldhouse
 - Given the lack of lead donors, our working vision will include facility desires and options but no hard cost or timeline
