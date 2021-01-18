@@ -1,7 +1,7 @@
 ---
 title: Project Overview
 ---
-***As of January 10, 2021***
+***As of January 17, 2021***
 
 # 2020 Focus: <span style='color:#cc0000'>Finalize a working vision</span>
 - [x] [Gather additional input or solicit additional Working Group help](/projects/completed.html)
@@ -16,21 +16,19 @@ title: Project Overview
 ## Completed projects
 - [Archived here](/completed.md)
 
-## Current projects  
-### Gather additional input or solicit additional Working Group help
-- <a href='/projects/completed.html'><span style='color:green'>+ Moved to complete</span></a>
-
-### Clarify collaboration between men's and women's teams
-- <a href='/projects/completed.html'><span style='color:green'>+ Moved to complete</span></a>
-
 ### Estimate and prioritize campaign fundraising goals
-- ~~Can add clarity of collaboration between men's and women's teams~~
-- ~~Trenary will lead gathering of additional feedback and any final additions to Working Vision~~
-- <span style='color:green'>+ Discussion needed on separation of Rec Sports / Athletics pursuits and its impact on fundraising goals and strategy</span>
+- ~~Discussion needed on separation of Rec Sports / Athletics pursuits and its impact on fundraising goals and strategy~~
+- <span style='color:green'>+ Working Vision goals are set</span>
+- <span style='color:green'>+ Response from Rec Sports below and the mechanics of giving will influence initial short-term campaigning</span>
 
 ### Share working vision with Rec Sports development team
 - Shared with Rec Sports development team
 - Received guidance on goals, estimation, and prioritization and are processing their feedback
+- <span style='color:green'>+ Will discuss the separation of the short-term Rec Sports development items from the remaining items of the vision which we'll continue to pursue</span>
+
+### Create working vision presentation to share with potential supporters and donors
+- <span style='color:green'>+ Working Vision is set!</span>
+- <span style='color:green'>+ Will create a version we're comfortable sharing with Spectators</span>
 
 ### <span style='color:#cc0000'>Milestone:</span> **Finalize working vision**
 
