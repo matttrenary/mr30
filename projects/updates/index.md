@@ -1,6 +1,7 @@
 ---
 title: Weekly Updates
 ---
+- [January 17, 2021](2021-01-17.md)
 - [January 10, 2021](2021-01-10.md)
 - [January 3, 2021](2021-01-03.md)
 - [December 27, 2020](2020-12-27.md)
