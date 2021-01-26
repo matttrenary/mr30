@@ -23,7 +23,7 @@ title: Project Overview
 - ~~Shared with Rec Sports development team~~
 - ~~Received guidance on goals, estimation, and prioritization and are processing their feedback~~
 - ~~Will discuss the separation of the short-term Rec Sports development items from the remaining items of the vision which we'll continue to pursue~~
-- Rec Sports agrees with separation of pursuits and will assist in creating a presentation outlining the spearation
+- <span style='color:green'>+Rec Sports agrees with separation of pursuits and will assist in creating a presentation outlining the spearation</span>
 
 ### Create working vision presentation to share with potential supporters and donors
 - Working Vision is set!
