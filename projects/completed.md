@@ -1,6 +1,10 @@
 ---
 title: Completed Projects
 ---
+## Finished January 25, 2021
+### Estimate and prioritize campaign fundraising goals
+- Working Vision presentation outlines estimates and priorities
+
 ## Finished January 10, 2021
 ### Clarify collaboration between men's and women's teams
 - Unanimous support for collaboration
