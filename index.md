@@ -9,7 +9,7 @@ title: MR30
 - [Cadence and Working Groups](/structure/index.md)
 
 ## Meeting notes
-- Upcoming: January 14th at 8pm
+- [January 14, 2021](/meetings/2021-01-14.md)
 - [December 10, 2020](/meetings/2020-12-10.md)
 - [November 10, 2020](/meetings/2020-11-10.md)
 - [October 8, 2020](/meetings/2020-10-08.md)
