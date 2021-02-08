@@ -1,7 +1,7 @@
 ---
 title: Project Overview
 ---
-***As of January 31, 2021***
+***As of February 7, 2021***
 
 # 2020 Focus: <span style='color:#cc0000'>Finalize a working vision</span>
 - [x] [Gather additional input or solicit additional Working Group help](/projects/completed.html)
@@ -19,7 +19,8 @@ title: Project Overview
 ### Create working vision presentation to share with potential supporters and donors
 - Working Vision is set!
 - Rec Sports will help create a shareable version
-  - <span style='color:green'>+ Meeting with them on Thursday</span>
+  - ~~Meeting~~ <span style='color:green'>+ Met</span> with them on Thursday
+  - <span style='color:green'>+ Will discuss separation of pursuits with MRF and finalize a shareable version</span>
 
 ### <span style='color:#cc0000'>Milestone:</span> **Finalize working vision**
 
