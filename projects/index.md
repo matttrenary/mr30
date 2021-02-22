@@ -3,29 +3,25 @@ title: Project Overview
 ---
 ***As of February 7, 2021***
 
-# 2020 Focus: <span style='color:#cc0000'>Finalize a working vision</span>
-- [x] [Gather additional input or solicit additional Working Group help](/projects/completed.html)
-- [x] [Confirm stance on pursuit of varsity](/projects/completed.html)
-- [x] [Establish initial project timeline](/projects/completed.html)
-- [x] [Clarify collaboration between men's and women's teams](/projects/completed.html)
-- [x] [Prioritize field/fieldhouse](/projects/completed.html)
-- [x] Estimate and prioritize campaign fundraising goals
-- Create working vision presentation to share with potential supporters and donors
+# 2020 Milestone: <span style='color:#cc0000'>Finalize a working vision</span>
+# 2021 Milestone: <span style='color:#cc0000'>Launch the vision and begin development</span>
+- [ ] Identify initial supporters and donors to contact, and map out working group's connections
+- [ ] Share working vision with Spectators
+- [ ] Establish order of admissions assistance pursuit, and consider when to connect with Spencer, Martin, John Paul, Athletics
+- [ ] Decide upon donation mechanics (gift account, endowment, MRF, new account?)
 
 # Unspecified timeline
 ## Completed projects
 - [Archived here](/completed.md)
 
+## 2020 Cleanup
 ### Create working vision presentation to share with potential supporters and donors
 - Working Vision is set!
 - Rec Sports will help create a shareable version
-  - ~~Meeting~~ <span style='color:green'>+ Met</span> with them on Thursday
-  - <span style='color:green'>+ Will discuss separation of pursuits with MRF and finalize a shareable version</span>
+  - ~~Met with them on Thursday~~
+  - Will discuss separation of pursuits with MRF and finalize a shareable version
 
-### <span style='color:#cc0000'>Milestone:</span> **Finalize working vision**
+### Arrange Task Forces for parallel pursuits
+- Trenary asking entire MR30 Working Group
 
-## Beyond Milestone Projects
-- Identify initial supporters and donors to contact, and map out working group's connections
-- Share working vision with Spectators
-- Establish order of admissions assistance pursuit, and consider when to connect with Spencer, Martin, John Paul, Athletics
-- Decide upon donation mechanics (gift account, endowment, MRF, new account?)
+### <span style='color:#cc0000'>Milestone:</span> **Launch the vision and begin development**
