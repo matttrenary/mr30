@@ -10,10 +10,6 @@ title: Project Overview
 - [ ] Establish order of admissions assistance pursuit, and consider when to connect with Spencer, Martin, John Paul, Athletics
 - [ ] Decide upon donation mechanics (gift account, endowment, MRF, new account?)
 
-# Unspecified timeline
-## Completed projects
-- [Archived here](/completed.md)
-
 ## 2020 Cleanup
 ### Create working vision presentation to share with potential supporters and donors
 - Working Vision is set!
@@ -21,6 +17,7 @@ title: Project Overview
   - ~~Met with them on Thursday~~
   - Will discuss separation of pursuits with MRF and finalize a shareable version
 
+## 2021 Projects
 ### Arrange Task Forces for parallel pursuits
 - Trenary asking entire MR30 Working Group
 
