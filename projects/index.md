@@ -17,7 +17,7 @@ title: Project Overview
   - ~~Met with them on Thursday~~
   - Will discuss separation of pursuits with MRF and finalize a shareable version
 
-## 2021 Projects
+## 2021 Active Projects
 ### Arrange Task Forces for parallel pursuits
 - Trenary asking entire MR30 Working Group
 
