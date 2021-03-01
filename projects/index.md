@@ -3,7 +3,7 @@ title: Project Overview
 ---
 ***As of February 28, 2021***
 
-# !(Done!)[https://user-images.githubusercontent.com/11351528/51387695-f564d000-1b4c-11e9-817d-5e6280f997d0.png] 2020 Milestone: <span style='color:#cc0000'>Finalize a working vision</span>
+# ![Done!](https://user-images.githubusercontent.com/11351528/51387695-f564d000-1b4c-11e9-817d-5e6280f997d0.png) 2020 Milestone: <span style='color:#cc0000'>Finalize a working vision</span>
 # 2021 Milestone: <span style='color:#cc0000'>Launch the vision and begin development</span>
 - [ ] Identify initial supporters and donors to contact, and map out working group's connections
 - [ ] Share working vision with Spectators
