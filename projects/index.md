@@ -3,7 +3,7 @@ title: Project Overview
 ---
 ***As of February 28, 2021***
 
-# Done! - 2020 Milestone: <span style='color:#cc0000'>Finalize a working vision</span>
+# <span style='color:green'>Done!</span> - 2020 Milestone: <span style='color:#cc0000'>Finalize a working vision</span>
 # 2021 Milestone: <span style='color:#cc0000'>Launch the vision and begin development</span>
 - [ ] Identify initial supporters and donors to contact, and map out working group's connections
 - [ ] Share working vision with Spectators
