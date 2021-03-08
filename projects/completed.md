@@ -1,6 +1,11 @@
 ---
 title: Completed Projects
 ---
+## Finished February 28, 2021
+### Finalize a Work Vision
+- Shareable version is complete
+- Tailored versions will be created for different audiences/outlets
+
 ## Finished January 25, 2021
 ### Estimate and prioritize campaign fundraising goals
 - Working Vision presentation outlines estimates and priorities
