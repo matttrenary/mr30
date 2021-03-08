@@ -24,7 +24,6 @@ title: Working Groups
 - Jeff Hagan
 - George Janke
 - Tianna Kilgore
-- Mike Lisi
 - John Moore
 - Vanessa Rojano
 - Aaron Turk
