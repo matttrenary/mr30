@@ -1,6 +1,11 @@
 ---
 title: Completed Projects
 ---
+## Finished March 14, 2021
+### Arrange Task Forces for parallel pursuits
+- Task Forces arranged
+- Initial communications completed
+
 ## Finished February 28, 2021
 ### Finalize a Work Vision
 - Shareable version is complete
