@@ -6,7 +6,7 @@ title: MR30
 - [Project Overview](/projects/index.md)
 
 ## Structure
-- [Cadence and Working Groups](/structure/index.md)
+- [Cadence and Members](/structure/index.md)
 
 ## Meeting notes
 - [February 18, 2021](/meetings/2021-02-18.md)
