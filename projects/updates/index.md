@@ -1,6 +1,7 @@
 ---
 title: Weekly Updates
 ---
+- [March 14, 2021](2021-03-14.md)
 - [March 7, 2021](2021-03-07.md)
 - [February 28, 2021](2021-02-28.md)
 - [February 21, 2021](2021-02-21.md)
