@@ -3,42 +3,52 @@ title: Working Groups
 ---
 
 ## Cadence
-- Forwards: Weekly communication and monthly call
-- Backs: Monthly call
+- Task Force Members: Weekly progress
+- Backs: Monthly call and weekly email updates
 - Bench: As needed, and invited to monthly call
-- Spectators: Provided with quarterly reports
 
-## Forwards
-- Kevin Cunningham
-- Jamie Frech
-- John Palladino
+## Messaging Task Force
+- Jamie Frech (lead)
+- Tianna Kilgore
+- Sam Taylordean
+
+## Improved Player Support
+- John Palladino (lead)
+- Jared Bosma
+
+## Facility Task Force
+- James Wilber (lead)
 - Greg Rose
-- Karl Seibert
+- Nate Fisher
+- Ben Shapiro
+
+## Full-time Coaching Task Force
+- Andrew Swain (lead)
+- George Janke
+- Tom Warburton
+
+## Admissions Task Force
+- Karl Seibert (lead)
+- Aaron Turk
+
+## All of the above
 - Matt Trenary
 
-## Specialist
-- Harvey Schiller
-
 ## Backs
-- Jake Bodner
-- Jeff Hagan
-- George Janke
-- Tianna Kilgore
-- John Moore
-- Vanessa Rojano
-- Aaron Turk
-- Tom Warburton
-- James Wilber
-
-## Bench
 - Rebecca Belian
-- Jared Bosma
 - Joel Conzelmann
+- Kevin Cunningham
 - Wes Farrow
-- Nate Fisher
-- Bill Haldane
+- Jeff Hagan
 - Matt Kasten
 - Meg Loomis
-- Ben Shapiro
-- Andrew Swain
-- Sam Taylordean
+- John Moore
+- Vanessa Rojano
+
+## Bench
+- Jake Bodner
+- Bill Haldane
+- Harvey Schiller
+
+## Retired
+- Mike Lisi
