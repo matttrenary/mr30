@@ -1,7 +1,7 @@
 ---
 title: Project Overview
 ---
-***As of March 14, 2021***
+***As of March 21, 2021***
 
 # 2021 Milestone: <span style='color:#cc0000'>Launch the vision and begin development</span>
 - [ ] Identify initial supporters and donors to contact, and map out working group's connections
@@ -16,19 +16,19 @@ title: Project Overview
 ### Messaging Task Force
 - Frech and Trenary met with Rec Sports
 - Discussed what portions of vision can be shared and how
-- Task Force will use feedback to take initial steps <span style='color:green'>+ toward sharing vision</span>
+- Task Force will use feedback to take initial steps toward sharing vision
 
 ### Improved Player Support Task Force
-- Trenary ~~beginning to segment~~ <span style='color:green'>+ segmented</span> potential donors by who (Rec Sports or MRF) should lead on development conversations
-- <span style='color:green'>+ Will work with Rec Sports and Messaging Task Force to begin conversations</span>
+- Trenary segmented potential donors by who (Rec Sports or MRF) should lead on development conversations
+- Will work with Rec Sports and Messaging Task Force to begin conversations
 
 ### Facility Task Force
-- <span style='color:green'>+ Initial email sent. Will begin arranging work/tasks.</span>
+- Initial email sent. Will begin arranging work/tasks.
 
 ### Full-time Coaching Task Force
-- <span style='color:green'>+ Initial email sent. Will begin arranging work/tasks.</span>
+- Initial email sent. Will begin arranging work/tasks.
 
 ### Admissions Task Force
-- <span style='color:green'>+ Initial email sent. Will begin arranging work/tasks.</span>
+- Initial email sent. Will begin arranging work/tasks.
 
 ### <span style='color:#cc0000'>Milestone:</span> **Launch the vision and begin development**
