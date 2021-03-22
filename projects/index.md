@@ -10,9 +10,6 @@ title: Project Overview
 - [ ] Decide upon donation mechanics (gift account, endowment, MRF, new account?)
 
 ## 2021 Active Projects
-### Arrange Task Forces for parallel pursuits
-- [Completed and archived](http://mr30.mrugby.com/projects/completed.html)
-
 ### Messaging Task Force
 - Frech and Trenary met with Rec Sports
 - Discussed what portions of vision can be shared and how
