@@ -1,7 +1,7 @@
 ---
 title: Project Overview
 ---
-***As of April 11, 2021***
+***As of April 18, 2021***
 
 # 2021 Milestone: <span style='color:#cc0000'>Launch the vision and begin development</span>
 - [ ] Identify initial supporters and donors to contact, and map out working group's connections
@@ -11,13 +11,13 @@ title: Project Overview
 
 ## 2021 Active Projects
 ### Messaging Task Force
-- Frech and Trenary met with Rec Sports
-- Discussed what portions of vision can be shared and how
+- Frech and Trenary ~~met~~ <span style='color:green'>+ meeting</span> with Rec Sports <span style='color:green'>+ again</span>
+- ~~Discussed what portions of vision can be shared and how~~
 - Task Force will use feedback to take initial steps toward sharing vision
 
 ### Improved Player Support Task Force
 - Trenary segmented potential donors by who (Rec Sports or MRF) should lead on development conversations
-- Will work with Rec Sports and Messaging Task Force to begin conversations
+- ~~Will work~~ <span style='color:green'>+ Meeting</span> with Rec Sports and Messaging Task Force to begin conversations
 
 ### Facility Task Force
 - Initial meetings happening to outline task work
