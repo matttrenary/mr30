@@ -1,7 +1,7 @@
 ---
 title: Project Overview
 ---
-***As of April 18, 2021***
+***As of April 27, 2021***
 
 # 2021 Milestone: <span style='color:#cc0000'>Launch the vision and begin development</span>
 - [ ] Identify initial supporters and donors to contact, and map out working group's connections
@@ -10,14 +10,23 @@ title: Project Overview
 - [ ] Decide upon donation mechanics (gift account, endowment, MRF, new account?)
 
 ## 2021 Active Projects
+### Identify initial supporters and donors to contact, and map out working group's connections
+- <span style='color:green'>+ Initial supporter phases have been identified</span>
+- <span style='color:green'>+ Connections to group and individual strategies to be developed</span>
+
+### Decide upon donation mechanics
+- <span style='color:green'>+ Lead donors can drive some mechanics decisions</span>
+- <span style='color:green'>+ Potential exists for shared gift account with clear process and purpose</span>
+
 ### Messaging Task Force
-- Frech and Trenary ~~met~~ <span style='color:green'>+ meeting</span> with Rec Sports <span style='color:green'>+ again</span>
-- ~~Discussed what portions of vision can be shared and how~~
-- Task Force will use feedback to take initial steps toward sharing vision
+- Frech and Trenary <span style='color:green'>+ met</span> with Rec Sports again
+- <span style='color:green'>+ Full presentation seems appropriate for initial conversations with close supporters</span>
+- Task Force ~~will use feedback to take initial steps toward sharing vision~~ <span style='color:green'>+ developing strategy for broader launch in the fall</span>
 
 ### Improved Player Support Task Force
 - Trenary segmented potential donors by who (Rec Sports or MRF) should lead on development conversations
-- ~~Will work~~ <span style='color:green'>+ Meeting</span> with Rec Sports and Messaging Task Force to begin conversations
+- <span style='color:green'>+ Met</span> with Rec Sports and Messaging Task Force to begin conversations
+- <span style='color:green'>+ Initial targeted contact has begun</span>
 
 ### Facility Task Force
 - Initial meetings happening to outline task work
