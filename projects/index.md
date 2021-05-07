@@ -1,7 +1,7 @@
 ---
 title: Project Overview
 ---
-***As of April 27, 2021***
+***As of May 6, 2021***
 
 # 2021 Milestone: <span style='color:#cc0000'>Launch the vision and begin development</span>
 - [ ] Identify initial supporters and donors to contact, and map out working group's connections
@@ -11,30 +11,36 @@ title: Project Overview
 
 ## 2021 Active Projects
 ### Identify initial supporters and donors to contact, and map out working group's connections
-- <span style='color:green'>+ Initial supporter phases have been identified</span>
-- <span style='color:green'>+ Connections to group and individual strategies to be developed</span>
+- Initial supporter phases have been identified
+- Connections to group and individual strategies to be developed
 
 ### Decide upon donation mechanics
-- <span style='color:green'>+ Lead donors can drive some mechanics decisions</span>
-- <span style='color:green'>+ Potential exists for shared gift account with clear process and purpose</span>
+- Lead donors can drive some mechanics decisions
+- Potential exists for shared gift account with clear process and purpose
 
 ### Messaging Task Force
-- Frech and Trenary <span style='color:green'>+ met</span> with Rec Sports again
-- <span style='color:green'>+ Full presentation seems appropriate for initial conversations with close supporters</span>
-- Task Force ~~will use feedback to take initial steps toward sharing vision~~ <span style='color:green'>+ developing strategy for broader launch in the fall</span>
+- ~~Frech and Trenary met with Rec Sports again~~
+- Full presentation seems appropriate for initial conversations with close supporters
+- Task Force developing strategy for broader launch in the fall
 
 ### Improved Player Support Task Force
 - Trenary segmented potential donors by who (Rec Sports or MRF) should lead on development conversations
-- <span style='color:green'>+ Met</span> with Rec Sports and Messaging Task Force to begin conversations
-- <span style='color:green'>+ Initial targeted contact has begun</span>
+- Met with Rec Sports and Messaging Task Force to begin conversations
+- Initial targeted contact has begun
 
 ### Facility Task Force
-- Initial meetings happening to outline task work
+- ~~Initial meetings happening to outline task work~~
+- <span style='color:green'>+ Initial tasks are outlined</span>
+- <span style='color:green'>+ Tasks can be prioritized for work</span>
 
 ### Full-time Coaching Task Force
-- Initial meetings happening to outline task work
+- ~~Initial meetings happening to outline task work~~
+- <span style='color:green'>+ Initial tasks are outlined</span>
+- <span style='color:green'>+ Tasks can be prioritized for work</span>
 
 ### Admissions Task Force
-- Initial email sent. Will begin arranging work/tasks.
+- ~~Initial email sent. Will begin arranging work/tasks.~~
+- <span style='color:green'>+ Initial tasks are outlined</span>
+- <span style='color:green'>+ Tasks can be prioritized for work</span>
 
 ### <span style='color:#cc0000'>Milestone:</span> **Launch the vision and begin development**
