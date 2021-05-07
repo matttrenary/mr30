@@ -47,8 +47,8 @@ title: Task Forces
 
 ## Bench
 - Jake Bodner
-- Bill Haldane
 - Harvey Schiller
 
 ## Retired
+- Bill Haldane
 - Mike Lisi
