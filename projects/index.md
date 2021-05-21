@@ -30,7 +30,7 @@ title: Project Overview
 ### Facility Task Force
 - Initial tasks are outlined
 - Tasks can be prioritized for work
-- <span style:'color:green'>+ Focused on lead donor identification and needs prioritization</span>
+- <span style='color:green'>+ Focused on lead donor identification and needs prioritization</span>
 
 ### Full-time Coaching Task Force
 - <span style='color:green'>+ Initial tasks are outlined</span>
