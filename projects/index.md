@@ -33,7 +33,7 @@ title: Project Overview
 
 ### Full-time Coaching Task Force
 - Initial tasks are outlined
-- - Tasks ~~can be prioritized for work~~ <span style='color:green'>+ are being worked through</span>
+- Tasks ~~can be prioritized for work~~ <span style='color:green'>+ are being worked through</span>
 
 ### Admissions Task Force
 - Initial tasks are outlined
