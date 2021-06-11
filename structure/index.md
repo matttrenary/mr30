@@ -15,6 +15,7 @@ title: Task Forces
 ## Improved Player Support
 - John Palladino (lead)
 - Jared Bosma
+- Jamie Demers
 
 ## Facility Task Force
 - James Wilber (lead)
