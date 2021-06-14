@@ -1,7 +1,7 @@
 ---
 title: Project Overview
 ---
-***As of June 6, 2021***
+***As of June 14, 2021***
 
 # 2021 Milestone: <span style='color:#cc0000'>Launch the vision and begin development</span>
 - [ ] Identify initial supporters and donors to contact, and map out working group's connections
@@ -12,28 +12,31 @@ title: Project Overview
 ## 2021 Active Projects
 ### Identify initial supporters and donors to contact, and map out working group's connections
 - Initial supporter phases have been identified
-- Connections to group and individual strategies ~~to be~~<span style='color:green'>+ are being</span> developed
+- Connections to group and individual strategies are being developed
 
 ### Decide upon donation mechanics
 - Lead donors can drive some mechanics decisions
-- ~~Potential exists for~~ Shared gift account with clear process and purpose <span style='color:green'>+ being discussed</span>
+- Shared gift account with clear process and purpose being ~~discussed~~<span style='color:green'>+ setup</span>
 
 ### Messaging Task Force
 - Full presentation seems appropriate for initial conversations with close supporters
 - Task Force presented strategy for broader launch in the fall
+- <span style='color:green'>+ Tag line options are under consideration</span>
 
 ### Improved Player Support Task Force
 - Trenary segmented potential donors by who (Rec Sports or MRF) should lead on development conversations
-- Initial targeted contact ~~has begun~~<span style='color:green'>+ continuing</span>
+- Initial targeted contact continuing
+- <span style='color:green'>+ Trenary and Palladino identifying point people for conversations</span>
 
 ### Facility Task Force
-- Initial tasks are outlined
-- Tasks can be prioritized for work
+- ~~Initial tasks are outlined~~
+- ~~Tasks can be prioritized for work~~
 - Focused on lead donor identification and needs prioritization
+- <span style='color:green'>+ Teams are providing their needs prioritization</span>
 
 ### Full-time Coaching Task Force
 - Initial tasks are outlined
-- Tasks ~~can be prioritized for work~~ <span style='color:green'>+ are being worked through</span>
+- Tasks are being worked through
 
 ### Admissions Task Force
 - Initial tasks are outlined
