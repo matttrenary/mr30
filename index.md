@@ -9,7 +9,7 @@ title: MR30
 - [Cadence and Members](/structure/index.md)
 
 ## Meeting notes
-- Upcoming June call: June 17, 8:30pm
+- [June 17, 2021](/meetings/2021-06-17.md)
 - [May 13, 2021](/meetings/2021-05-13.md)
 - [February 18, 2021](/meetings/2021-02-18.md)
 - [January 14, 2021](/meetings/2021-01-14.md)
