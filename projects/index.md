@@ -31,7 +31,7 @@ title: Project Overview
 ### Facility Task Force
 - Focused on lead donor identification and needs prioritization
 - Teams are providing their needs prioritization
-- <span style='color:green'>+ Targeting OBW to rally some individuals</span>
+- <span style='color:green'>+ Targeting OBW to rally main support group</span>
 
 ### Full-time Coaching Task Force
 - ~~Initial tasks are outlined~~
