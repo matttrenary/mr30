@@ -1,7 +1,7 @@
 ---
 title: Project Overview
 ---
-***As of June 14, 2021***
+***As of June 20, 2021***
 
 # 2021 Milestone: <span style='color:#cc0000'>Launch the vision and begin development</span>
 - [ ] Identify initial supporters and donors to contact, and map out working group's connections
@@ -16,30 +16,31 @@ title: Project Overview
 
 ### Decide upon donation mechanics
 - Lead donors can drive some mechanics decisions
-- Shared gift account with clear process and purpose being ~~discussed~~<span style='color:green'>+ setup</span>
+- Shared gift account with clear process and purpose being setup
 
 ### Messaging Task Force
 - Full presentation seems appropriate for initial conversations with close supporters
 - Task Force presented strategy for broader launch in the fall
-- <span style='color:green'>+ Tag line options are under consideration</span>
+- Tag line options ~~are under consideration~~ <span style='color:green'>+ will be workshopped</span>
 
 ### Improved Player Support Task Force
-- Trenary segmented potential donors by who (Rec Sports or MRF) should lead on development conversations
+- ~~Trenary segmented potential donors by who (Rec Sports or MRF) should lead on development conversations~~
 - Initial targeted contact continuing
-- <span style='color:green'>+ Trenary and Palladino identifying point people for conversations</span>
+- Trenary and Palladino identifying point people for conversations
 
 ### Facility Task Force
-- ~~Initial tasks are outlined~~
-- ~~Tasks can be prioritized for work~~
 - Focused on lead donor identification and needs prioritization
-- <span style='color:green'>+ Teams are providing their needs prioritization</span>
+- Teams are providing their needs prioritization
+- <span style='color:green'>+ Targeting OBW to rally some individuals</span>
 
 ### Full-time Coaching Task Force
-- Initial tasks are outlined
-- Tasks are being worked through
+- ~~Initial tasks are outlined~~
+- ~~Tasks are being worked through~~
+- <span style='color:green'>+ Investigating roles and responsibilities and process toward full-time from other teams</span>
 
 ### Admissions Task Force
-- Initial tasks are outlined
-- Tasks can be prioritized for work
+- ~~Initial tasks are outlined~~
+- ~~Tasks can be prioritized for work~~
+- <span style='color:green'>+ Need to investigate debate's admissions methods</span>
 
 ### <span style='color:#cc0000'>Milestone:</span> **Launch the vision and begin development**
