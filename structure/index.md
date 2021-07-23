@@ -32,7 +32,8 @@ title: Task Forces
 - Karl Seibert (lead)
 - Aaron Turk
 
-## All of the above
+## Project Management
+- Justin Malin
 - Matt Trenary
 
 ## Backs
