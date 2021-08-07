@@ -3,36 +3,38 @@ title: Task Forces
 ---
 
 ## Cadence
-- Task Force Members: Weekly progress
+- Forwards (Task Force Members): Weekly progress
 - Backs: Monthly call and weekly email updates
 - Bench: As needed, and invited to monthly call
 
-## Messaging Task Force
+## Forwards
+
+### Messaging Task Force
 - Jamie Frech (lead)
 - Tianna Kilgore
 - Sam Taylordean
 
-## Improved Player Support
+### Improved Player Support
 - John Palladino (lead)
 - Jared Bosma
 - Jamie Demers
 
-## Facility Task Force
+### Facility Task Force
 - James Wilber (lead)
 - Greg Rose
 - Nate Fisher
 - Ben Shapiro
 
-## Full-time Coaching Task Force
+### Full-time Coaching Task Force
 - Andrew Swain (lead)
 - George Janke
 - Tom Warburton
 
-## Admissions Task Force
+### Admissions Task Force
 - Karl Seibert (lead)
 - Aaron Turk
 
-## Project Management
+### Project Management
 - Justin Malin
 - Matt Trenary
 
