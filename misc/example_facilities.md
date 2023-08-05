@@ -75,7 +75,7 @@ title: Example Facilities
     - Shed
     - 8,000 sq ft clubhouse
 - Land, fields, and shed completed in 2010
-- $1.6m for clubhouse
+- $1.6m for clubhouse in 2021
     - Matching donor up to $500k plus group campaign
 - [Additional Info](http://rugbymadison.org/sports-complex/clubhouse-2020/)
 
