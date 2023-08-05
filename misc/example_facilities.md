@@ -3,7 +3,7 @@ title: Example Facilities
 ---
 ## Rugby
 ### Army
-![Anderson Rugby Complex](http://wearearmywestpoint.com/wp-content/uploads/2017/01/Rugby-Facility-2-Resized.jpg)
+![Anderson Rugby Complex](https://i0.wp.com/forwhattheygaveonsaturdayafternoon.com/photos/Rug1.jpg?zoom=2)
 - Anderson Rugby Complex
     - Grass and turf fields
     - 13,650 sq ft fieldhouse
@@ -38,13 +38,14 @@ title: Example Facilities
 - [Additional Info](https://dartmouthsports.com/sports/2015/7/22/210229604.aspx)
 
 ### Notre Dame
-- <img src="https://ssl.c.photoshelter.com/img-get/I0000kjjYI_QGgDE/s/650/9-20-13-Stinson-Rugby-Field.jpg" alt="Stinson Rugby Field" width="500"/>
+- <img src="https://rugby.nd.edu/assets/447578/1050x/blj_4021.jpg" alt="Stinson Rugby Field" width="500"/>
 - Stinson Rugby Field
     - Turf field
     - Fieldhouse and seating TBD
 - Built in 2013
-- $1.5-2m
+- $1.5-2m for field
     - Primarily from a single donor
+    - Additional cost for later bleacher installation
     
 ### Chicago Lions
 - <img src="https://www.lionsforhopesc.org/wp-content/uploads/2020/03/field2-1000.jpg" alt="Lions for Hope Sports Complex" width="500"/>
@@ -67,15 +68,14 @@ title: Example Facilities
 - [Additional Info](https://liferunningeagles.com/sports/2017/9/6/lupo-family-field.aspx)
 
 ### Madison United Rugby
-- <img src="http://rugbymadison.org/wp-content/uploads/2020/04/East-SouthEast-View.jpg" alt="Wisconsin Rugby Sports Complex" width="500"/>
+- <img src=https://static.wixstatic.com/media/623fec_870229086fdd4d579f601c6c11427c5e~mv2.jpg/v1/fill/w_1899,h_778,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/623fec_870229086fdd4d579f601c6c11427c5e~mv2.jpg" alt="Wisconsin Rugby Sports Complex" width="500"/>
 - Wisconsin Rugby Sports Complex
     - Two grass fields
     - Bleachers
     - Shed
-    - Approved 8,000 sq ft clubhouse
+    - 8,000 sq ft clubhouse
 - Land, fields, and shed completed in 2010
-- Construction approved for clubhouse
-    - $1.6m
+- $1.6m for clubhouse
     - Matching donor up to $500k plus group campaign
 - [Additional Info](http://rugbymadison.org/sports-complex/clubhouse-2020/)
 
