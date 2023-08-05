@@ -68,7 +68,7 @@ title: Example Facilities
 - [Additional Info](https://liferunningeagles.com/sports/2017/9/6/lupo-family-field.aspx)
 
 ### Madison United Rugby
-- <img src=https://static.wixstatic.com/media/623fec_870229086fdd4d579f601c6c11427c5e~mv2.jpg/v1/fill/w_1899,h_778,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/623fec_870229086fdd4d579f601c6c11427c5e~mv2.jpg" alt="Wisconsin Rugby Sports Complex" width="500"/>
+- <img src="https://static.wixstatic.com/media/623fec_870229086fdd4d579f601c6c11427c5e~mv2.jpg/v1/fill/w_1899,h_778,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/623fec_870229086fdd4d579f601c6c11427c5e~mv2.jpg" alt="Wisconsin Rugby Sports Complex" width="500"/>
 - Wisconsin Rugby Sports Complex
     - Two grass fields
     - Bleachers
