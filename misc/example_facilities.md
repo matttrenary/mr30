@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/69482252-f89b-48cb-9687-885b3bea423e)---
+![image](https://github.com/user-attachments/assets/70d9332e-58b4-419f-b077-e035c05bc0a6)![image](https://github.com/user-attachments/assets/69482252-f89b-48cb-9687-885b3bea423e)---
 title: Example Facilities
 ---
 ## Rugby
@@ -87,14 +87,23 @@ title: Example Facilities
     - Turf Field and 4 grass fields
     - 6 Team rooms, press box, meeting room/lounge
     - 5920 square feet
-- Bleachers for 2,500 spectators and 2,000 grass hil
+- Bleachers for 2,500 spectators and 2,000 on grass hill
 - Opened in 1995
 - $10.5m
-- Primarily through single donor for field hosue and for field
 - [Additional Info 1](https://yorkulions.ca/sports/2013/4/12/GEN_0412133923.aspx)
 - [Additional Info](https://en.wikipedia.org/wiki/Alumni_Field_(York_University))
 
-https://gothunderbirds.ca/images/2017/7/4/DSCF0026.jpg?width=600&height=360&mode=crop
+### University of British Columbia
+![Gerald McGavin UBC Rugby Centre](https://sportfacilities.ubc.ca/wp-content/uploads/2019/09/gmrc-01-1170x487.jpg)
+- Gerald McGavin UBC Rugby Centre
+    - Field house, club house and lounge
+    - 5000 square feet
+- Bleachers for 3,000 spectators
+- Opened in 2013
+- $2m
+- Primarily through single donor for field house and for field
+- [Additional Info 1](https://sportfacilities.ubc.ca/gmrc/)
+- [Additional Info](https://sportfacilities.ubc.ca/gmrc/history/)
 
 ### Chicago Lions
 - <img src="https://www.lionsforhopesc.org/wp-content/uploads/2020/03/field2-1000.jpg" alt="Lions for Hope Sports Complex" width="500"/>
