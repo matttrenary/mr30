@@ -1,4 +1,4 @@
----
+![image](https://github.com/user-attachments/assets/69482252-f89b-48cb-9687-885b3bea423e)---
 title: Example Facilities
 ---
 ## Rugby
@@ -23,7 +23,7 @@ title: Example Facilities
 - $3m
     - Primarily from a single donor
 - 660 seating capacity
-- [Additional Info](https://gostanford.com/facilities/steuber-rugby-stadium-doyle-family-clubhouse/17)
+- [Additional Info](https://stanfordclubsports.com/facilities/steuber-rugby-stadium/3)
 
 ### Dartmouth
 - <img src="https://recreation.dartmouth.edu/sites/recreation.prod/files/styles/slide/public/recreation_dartmouth/images/corey_ford_clubhouse.png?itok=GvgttbVy" alt="Corey Ford Rugby Clubhouse" width="500"/>
@@ -46,7 +46,56 @@ title: Example Facilities
 - $1.5-2m for field
     - Primarily from a single donor
     - Additional cost for later bleacher installation
-    
+ 
+### Navy
+![Prusmack Rugby Complex](https://navysports.com/images/2022/5/26/PrusmackRugby_2022_3.jpg?quality=80&format=jpg&width=1020)
+- Prusmack Rugby Complex
+    - Grass and turf fields (3 in total)
+    - Stands between two fields and scoreboards
+- Opened in 2016
+- Joint with Brigade Sports Complex
+- Primarily from single donor but other support
+- [Additional Info 1](https://navysports.com/sports/2022/5/25/prusmack-rugby-complex.aspx)
+- [Additional Info 2](https://www.goffrugbyreport.com/news/naval-academy-unveil-rugby-complex?utm_source=chatgpt.com)
+
+### California
+![Witter Rugby Field](https://www.berkeley.edu/wp-content/uploads/2024/04/witter.jpg)
+- Witter Rugby Field
+    - Currently turf but plan to return to grass
+    - Fieldhouse
+- Built in 1995
+- $2m
+- Primarily through single donor
+- [Additional Info 1](https://calbears.com/news/2013/4/17/208213298.aspx)
+- [Additional Info 2](https://www.berkeley.edu/map/witter-rugby-field/)
+
+### Princeton
+![Rickerson Field at Haaga House](https://images.sidearmdev.com/resize?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fprinceton.sidearmsports.com%2Fimages%2F2025%2F3%2F26%2FWRUG_20240831-0002.jpg&height=300&type=webp)
+- Rickerson Field at Haaga House
+    - 3 fields and two practice fields on whole complex
+    - Fieldhouse: locker rooms, shower facilities, team rooms, athletic medicine room, public restrooms and a portico for public viewing
+    - 7260 square feet
+- Built in 2013
+- $2m
+- Primarily through single donor for field hosue and for field
+- [Additional Info 1](https://goprincetontigers.com/facilities/rickerson-field-at-haaga-house/223)
+- [Additional Info 2](https://www.princeton.edu/news/2025/03/26/venture-forward-gifts-build-future-princeton-athletics-new-meadows-neighborhood)
+
+### York University
+![Alumni Field](https://yorkulions.ca/common/controls/image_handler.aspx?thumb_id=12&image_path=/images/2013/10/9/pregame_field.jpg)
+- Alumni Field
+    - Turf Field and 4 grass fields
+    - 6 Team rooms, press box, meeting room/lounge
+    - 5920 square feet
+- Bleachers for 2,500 spectators and 2,000 grass hil
+- Opened in 1995
+- $10.5m
+- Primarily through single donor for field hosue and for field
+- [Additional Info 1](https://yorkulions.ca/sports/2013/4/12/GEN_0412133923.aspx)
+- [Additional Info](https://en.wikipedia.org/wiki/Alumni_Field_(York_University))
+
+https://gothunderbirds.ca/images/2017/7/4/DSCF0026.jpg?width=600&height=360&mode=crop
+
 ### Chicago Lions
 - <img src="https://www.lionsforhopesc.org/wp-content/uploads/2020/03/field2-1000.jpg" alt="Lions for Hope Sports Complex" width="500"/>
 - Lions for Hope Sports Complex
@@ -66,6 +115,8 @@ title: Example Facilities
 - $2m
     - Lead donor, group campaign, school funding
 - [Additional Info](https://liferunningeagles.com/sports/2017/9/6/lupo-family-field.aspx)
+
+
 
 ### Madison United Rugby
 - <img src="https://static.wixstatic.com/media/623fec_870229086fdd4d579f601c6c11427c5e~mv2.jpg/v1/fill/w_1899,h_778,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/623fec_870229086fdd4d579f601c6c11427c5e~mv2.jpg" alt="Wisconsin Rugby Sports Complex" width="500"/>
