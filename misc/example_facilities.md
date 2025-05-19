@@ -1,5 +1,4 @@
-![image](https://github.com/user-attachments/assets/70d9332e-58b4-419f-b077-e035c05bc0a6)![image](https://github.com/user-attachments/assets/69482252-f89b-48cb-9687-885b3bea423e)---
-title: Example Facilities
+# Example Facilities
 ---
 ## Rugby
 ### Army
@@ -90,18 +89,20 @@ title: Example Facilities
 - Bleachers for 2,500 spectators and 2,000 on grass hill
 - Opened in 1995
 - $10.5m
+- Primarily through single donor for field hosue and for field
 - [Additional Info 1](https://yorkulions.ca/sports/2013/4/12/GEN_0412133923.aspx)
 - [Additional Info](https://en.wikipedia.org/wiki/Alumni_Field_(York_University))
 
 ### University of British Columbia
-![Gerald McGavin UBC Rugby Centre](https://sportfacilities.ubc.ca/wp-content/uploads/2019/09/gmrc-01-1170x487.jpg)
+![Gerald McGavin UBC Rugby Centre](https://sportfacilities.ubc.ca/wp-content/uploads/2019/09/gmrc-03-1170x487.jpg)
 - Gerald McGavin UBC Rugby Centre
-    - Field house, club house and lounge
-    - 5000 square feet
-- Bleachers for 3,000 spectators
+    - 2 grass fields  
+    - Locker rooms, club house, and lounge
+    - 6000 square feet
+- Bleachers for 3000 spectators 
 - Opened in 2013
-- $2m
-- Primarily through single donor for field house and for field
+- $25m
+- Primarily through single donor
 - [Additional Info 1](https://sportfacilities.ubc.ca/gmrc/)
 - [Additional Info](https://sportfacilities.ubc.ca/gmrc/history/)
 
@@ -172,3 +173,5 @@ title: Example Facilities
 - $5.5m from Athletics development
 - [Additional Info 1](https://mgoblue.com/sports/2017/6/16/facilities-wrestling-center-html.aspx)
 - [Additional Info 2](https://umaec.umich.edu/projects/completed-projects/michigan-wrestling-center/)
+
+
